@@ -9,7 +9,8 @@ filename="syslog-$timestamp.log"
 # Copy the syslog file to the current working directory with the new filename
 cp /var/log/syslog $filename
 
-Refrences
-OpenAI
 
 echo "Copied /var/log/syslog to $filename"
+
+Reference
+OpenAI
