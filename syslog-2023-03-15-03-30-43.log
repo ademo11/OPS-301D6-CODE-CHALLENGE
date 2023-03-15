@@ -1,0 +1,1302 @@
+Mar 11 06:20:24 devbox1 systemd[1]: rsyslog.service: Sent signal SIGHUP to main process 656 (rsyslogd) on client request.
+Mar 11 06:20:24 devbox1 systemd[1]: logrotate.service: Deactivated successfully.
+Mar 11 06:20:24 devbox1 systemd[1]: Finished Rotate log files.
+Mar 11 06:20:24 devbox1 systemd[1]: fwupd-refresh.service: Main process exited, code=exited, status=1/FAILURE
+Mar 11 06:20:24 devbox1 systemd[1]: fwupd-refresh.service: Failed with result 'exit-code'.
+Mar 11 06:20:24 devbox1 systemd[1]: Failed to start Refresh fwupd metadata and update motd.
+Mar 11 06:20:24 devbox1 systemd[1]: man-db.service: Deactivated successfully.
+Mar 11 06:20:24 devbox1 systemd[1]: Finished Daily man-db regeneration.
+Mar 11 06:20:24 devbox1 systemd-networkd[632]: enp0s3: DHCPv6 address 2601:2c6:8381:ee10::7e83/128 (valid for 2d 13h 30min 51s, preferred for 2d 13h 30min 51s)
+Mar 11 06:20:25 devbox1 50-motd-news[43752]:  * Strictly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s
+Mar 11 06:20:25 devbox1 50-motd-news[43752]:    just raised the bar for easy, resilient and secure K8s cluster deployment.
+Mar 11 06:20:25 devbox1 50-motd-news[43752]:    https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+Mar 11 06:20:25 devbox1 systemd[1]: motd-news.service: Deactivated successfully.
+Mar 11 06:20:25 devbox1 systemd[1]: Finished Message of the Day.
+Mar 11 06:20:41 devbox1 systemd[1]: Started Session 108 of User ademo11.
+Mar 11 06:20:53 devbox1 systemd[1]: systemd-hostnamed.service: Deactivated successfully.
+Mar 11 06:21:02 devbox1 systemd[1]: apt-daily.service: Deactivated successfully.
+Mar 11 06:21:02 devbox1 systemd[1]: Finished Daily apt download activities.
+Mar 11 06:21:02 devbox1 systemd[1]: apt-daily.service: Consumed 24.096s CPU time.
+Mar 11 06:21:02 devbox1 systemd[1]: Starting Daily apt upgrade and clean activities...
+Mar 11 06:21:14 devbox1 systemd[1]: Reloading.
+Mar 11 06:21:16 devbox1 systemd[1]: Reloading.
+Mar 11 06:21:16 devbox1 systemd[1]: Starting Check to see whether there is a new version of Ubuntu available...
+Mar 11 06:21:16 devbox1 systemd[1]: update-notifier-motd.service: Deactivated successfully.
+Mar 11 06:21:16 devbox1 systemd[1]: Finished Check to see whether there is a new version of Ubuntu available.
+Mar 11 06:21:24 devbox1 dbus-daemon[647]: Unknown group "power" in message bus configuration file
+Mar 11 06:21:24 devbox1 dbus-daemon[647]: [system] Reloaded configuration
+Mar 11 06:21:24 devbox1 dbus-daemon[647]: Unknown group "power" in message bus configuration file
+Mar 11 06:21:24 devbox1 dbus-daemon[647]: [system] Reloaded configuration
+Mar 11 06:21:24 devbox1 dbus-daemon[647]: Unknown group "power" in message bus configuration file
+Mar 11 06:21:24 devbox1 dbus-daemon[647]: [system] Reloaded configuration
+Mar 11 06:21:25 devbox1 dbus-daemon[647]: Unknown group "power" in message bus configuration file
+Mar 11 06:21:25 devbox1 dbus-daemon[647]: [system] Reloaded configuration
+Mar 11 06:21:25 devbox1 dbus-daemon[647]: Unknown group "power" in message bus configuration file
+Mar 11 06:21:25 devbox1 dbus-daemon[647]: [system] Reloaded configuration
+Mar 11 06:21:25 devbox1 dbus-daemon[647]: Unknown group "power" in message bus configuration file
+Mar 11 06:21:25 devbox1 dbus-daemon[647]: [system] Reloaded configuration
+Mar 11 06:21:25 devbox1 dbus-daemon[647]: Unknown group "power" in message bus configuration file
+Mar 11 06:21:25 devbox1 dbus-daemon[647]: [system] Reloaded configuration
+Mar 11 06:21:25 devbox1 dbus-daemon[647]: Unknown group "power" in message bus configuration file
+Mar 11 06:21:25 devbox1 dbus-daemon[647]: [system] Reloaded configuration
+Mar 11 06:21:26 devbox1 dbus-daemon[647]: Unknown group "power" in message bus configuration file
+Mar 11 06:21:26 devbox1 dbus-daemon[647]: [system] Reloaded configuration
+Mar 11 06:21:26 devbox1 dbus-daemon[647]: Unknown group "power" in message bus configuration file
+Mar 11 06:21:26 devbox1 dbus-daemon[647]: [system] Reloaded configuration
+Mar 11 06:21:26 devbox1 dbus-daemon[647]: Unknown group "power" in message bus configuration file
+Mar 11 06:21:26 devbox1 dbus-daemon[647]: [system] Reloaded configuration
+Mar 11 06:21:26 devbox1 dbus-daemon[647]: Unknown group "power" in message bus configuration file
+Mar 11 06:21:26 devbox1 dbus-daemon[647]: [system] Reloaded configuration
+Mar 11 06:21:27 devbox1 systemd[1]: Reexecuting.
+Mar 11 06:21:27 devbox1 kernel: [287678.782318] systemd[1]: systemd 249.11-0ubuntu3.7 running in system mode (+PAM +AUDIT +SELINUX +APPARMOR +IMA +SMACK +SECCOMP +GCRYPT +GNUTLS +OPENSSL +ACL +BLKID +CURL +ELFUTILS +FIDO2 +IDN2 -IDN +IPTC +KMOD +LIBCRYPTSETUP +LIBFDISK +PCRE2 -PWQUALITY -P11KIT -QRENCODE +BZIP2 +LZ4 +XZ +ZLIB +ZSTD -XKBCOMMON +UTMP +SYSVINIT default-hierarchy=unified)
+Mar 11 06:21:27 devbox1 kernel: [287678.782344] systemd[1]: Detected virtualization oracle.
+Mar 11 06:21:27 devbox1 kernel: [287678.782352] systemd[1]: Detected architecture x86-64.
+Mar 11 06:21:27 devbox1 systemd[1]: Condition check resulted in OpenVSwitch configuration for cleanup being skipped.
+Mar 11 06:21:27 devbox1 systemd[1]: systemd-networkd-wait-online.service: Deactivated successfully.
+Mar 11 06:21:27 devbox1 systemd[1]: Stopped Wait for Network to be Configured.
+Mar 11 06:21:27 devbox1 systemd[1]: Stopping Wait for Network to be Configured...
+Mar 11 06:21:27 devbox1 systemd[1]: Stopping Network Configuration...
+Mar 11 06:21:27 devbox1 systemd-networkd[632]: enp0s3: DHCPv6 lease lost
+Mar 11 06:21:27 devbox1 systemd[1]: systemd-networkd.service: Deactivated successfully.
+Mar 11 06:21:27 devbox1 systemd[1]: Stopped Network Configuration.
+Mar 11 06:21:27 devbox1 systemd[1]: systemd-networkd.service: Consumed 1min 20.749s CPU time.
+Mar 11 06:21:27 devbox1 systemd[1]: Starting Network Configuration...
+Mar 11 06:21:27 devbox1 systemd-networkd[44842]: enp0s3: Link UP
+Mar 11 06:21:27 devbox1 systemd-networkd[44842]: enp0s3: Gained carrier
+Mar 11 06:21:27 devbox1 systemd-networkd[44842]: lo: Link UP
+Mar 11 06:21:27 devbox1 systemd-networkd[44842]: lo: Gained carrier
+Mar 11 06:21:27 devbox1 systemd-networkd[44842]: enp0s3: Gained IPv6LL
+Mar 11 06:21:27 devbox1 systemd-networkd[44842]: Enumeration completed
+Mar 11 06:21:27 devbox1 systemd[1]: Started Network Configuration.
+Mar 11 06:21:27 devbox1 systemd[1]: Starting Wait for Network to be Configured...
+Mar 11 06:21:27 devbox1 systemd[1]: Stopping Network Name Resolution...
+Mar 11 06:21:27 devbox1 dbus-daemon[647]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.128' (uid=101 pid=44842 comm="/lib/systemd/systemd-networkd " label="unconfined")
+Mar 11 06:21:27 devbox1 systemd-networkd[44842]: enp0s3: DHCPv4 address 10.0.0.229/24 via 10.0.0.1
+Mar 11 06:21:27 devbox1 systemd[1]: Starting Hostname Service...
+Mar 11 06:21:27 devbox1 systemd-networkd-wait-online[44843]: managing: enp0s3
+Mar 11 06:21:27 devbox1 systemd[1]: Finished Wait for Network to be Configured.
+Mar 11 06:21:28 devbox1 dbus-daemon[647]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Mar 11 06:21:28 devbox1 systemd[1]: Started Hostname Service.
+Mar 11 06:21:28 devbox1 systemd[1]: systemd-resolved.service: Deactivated successfully.
+Mar 11 06:21:28 devbox1 systemd[1]: Stopped Network Name Resolution.
+Mar 11 06:21:28 devbox1 systemd[1]: systemd-resolved.service: Consumed 1min 56.249s CPU time.
+Mar 11 06:21:28 devbox1 systemd[1]: Starting Network Name Resolution...
+Mar 11 06:21:28 devbox1 systemd-hostnamed[44845]: Hostname set to <devbox1> (static)
+Mar 11 06:21:28 devbox1 systemd-resolved[44848]: Positive Trust Anchors:
+Mar 11 06:21:28 devbox1 systemd-resolved[44848]: . IN DS 20326 8 2 e06d44b80b8f1d39a95c0b0d7c65d08458e880409bbc683457104237c7f8ec8d
+Mar 11 06:21:28 devbox1 systemd-resolved[44848]: Negative trust anchors: home.arpa 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa corp home internal intranet lan local private test
+Mar 11 06:21:28 devbox1 systemd-resolved[44848]: Using system hostname 'devbox1'.
+Mar 11 06:21:28 devbox1 systemd[1]: Started Network Name Resolution.
+Mar 11 06:21:28 devbox1 kernel: [287679.787623] systemd[1]: Stopping Journal Service...
+Mar 11 06:21:28 devbox1 kernel: [287679.787833] systemd-journald[367]: Received SIGTERM from PID 1 (systemd).
+Mar 11 06:21:28 devbox1 kernel: [287679.822666] systemd[1]: systemd-journald.service: Deactivated successfully.
+Mar 11 06:21:28 devbox1 kernel: [287679.823007] systemd[1]: Stopped Journal Service.
+Mar 11 06:21:28 devbox1 kernel: [287679.823046] systemd[1]: systemd-journald.service: Consumed 1.546s CPU time.
+Mar 11 06:21:28 devbox1 kernel: [287679.825391] systemd[1]: Starting Journal Service...
+Mar 11 06:21:28 devbox1 kernel: [287679.865399] systemd[1]: Started Journal Service.
+Mar 11 06:21:28 devbox1 systemd-networkd[44842]: enp0s3: DHCPv6 address 2601:2c6:8381:ee10::7e83/128 (valid for 2d 13h 30min 51s, preferred for 2d 13h 30min 51s)
+Mar 11 06:21:28 devbox1 systemd[1]: Reloading.
+Mar 11 06:21:29 devbox1 systemd[1]: Stopping Network Time Synchronization...
+Mar 11 06:21:29 devbox1 systemd[1]: systemd-timesyncd.service: Deactivated successfully.
+Mar 11 06:21:29 devbox1 systemd[1]: Stopped Network Time Synchronization.
+Mar 11 06:21:29 devbox1 systemd[1]: systemd-timesyncd.service: Consumed 1.707s CPU time.
+Mar 11 06:21:29 devbox1 systemd[1]: Starting Network Time Synchronization...
+Mar 11 06:21:29 devbox1 systemd[1]: Started Network Time Synchronization.
+Mar 11 06:21:29 devbox1 systemd-timesyncd[44916]: Initial synchronization to time server 185.125.190.56:123 (ntp.ubuntu.com).
+Mar 11 06:21:29 devbox1 dbus-daemon[647]: Unknown group "power" in message bus configuration file
+Mar 11 06:21:29 devbox1 dbus-daemon[647]: [system] Reloaded configuration
+Mar 11 06:21:38 devbox1 systemd[1]: Reloading.
+Mar 11 06:21:39 devbox1 systemd[1]: Stopping Rule-based Manager for Device Events and Files...
+Mar 11 06:21:39 devbox1 systemd[1]: systemd-udevd.service: Deactivated successfully.
+Mar 11 06:21:39 devbox1 systemd[1]: Stopped Rule-based Manager for Device Events and Files.
+Mar 11 06:21:39 devbox1 systemd[1]: systemd-udevd.service: Consumed 2.300s CPU time.
+Mar 11 06:21:39 devbox1 systemd[1]: Starting Rule-based Manager for Device Events and Files...
+Mar 11 06:21:39 devbox1 systemd[1]: Started Rule-based Manager for Device Events and Files.
+Mar 11 06:21:39 devbox1 systemd[1]: Reloading.
+Mar 11 06:21:58 devbox1 systemd[1]: systemd-hostnamed.service: Deactivated successfully.
+Mar 11 06:22:01 devbox1 snapd[658]: storehelpers.go:769: cannot refresh: snap has no updates available: "lxd", "snapd"
+Mar 11 06:24:33 devbox1 systemd[1]: apt-daily-upgrade.service: Deactivated successfully.
+Mar 11 06:24:33 devbox1 systemd[1]: Finished Daily apt upgrade and clean activities.
+Mar 11 06:24:33 devbox1 systemd[1]: apt-daily-upgrade.service: Consumed 2min 2.242s CPU time.
+Mar 11 06:25:01 devbox1 CRON[68737]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] Linux version 5.15.0-67-generic (buildd@lcy02-amd64-116) (gcc (Ubuntu 11.3.0-1ubuntu1~22.04) 11.3.0, GNU ld (GNU Binutils for Ubuntu) 2.38) #74-Ubuntu SMP Wed Feb 22 14:14:39 UTC 2023 (Ubuntu 5.15.0-67.74-generic 5.15.85)
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] Command line: BOOT_IMAGE=/vmlinuz-5.15.0-67-generic root=/dev/mapper/ubuntu--vg-ubuntu--lv ro
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] KERNEL supported cpus:
+Mar 13 05:09:09 devbox1 kernel: [    0.000000]   Intel GenuineIntel
+Mar 13 05:09:09 devbox1 kernel: [    0.000000]   AMD AuthenticAMD
+Mar 13 05:09:09 devbox1 kernel: [    0.000000]   Hygon HygonGenuine
+Mar 13 05:09:09 devbox1 kernel: [    0.000000]   Centaur CentaurHauls
+Mar 13 05:09:09 devbox1 kernel: [    0.000000]   zhaoxin   Shanghai  
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x001: 'x87 floating point registers'
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x002: 'SSE registers'
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x004: 'AVX registers'
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] x86/fpu: xstate_offset[2]:  576, xstate_sizes[2]:  256
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] x86/fpu: Enabled xstate features 0x7, context size is 832 bytes, using 'standard' format.
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] signal: max sigframe size: 1776
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] BIOS-provided physical RAM map:
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] BIOS-e820: [mem 0x0000000000000000-0x000000000009fbff] usable
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] BIOS-e820: [mem 0x000000000009fc00-0x000000000009ffff] reserved
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] BIOS-e820: [mem 0x00000000000f0000-0x00000000000fffff] reserved
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] BIOS-e820: [mem 0x0000000000100000-0x000000003ffeffff] usable
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] BIOS-e820: [mem 0x000000003fff0000-0x000000003fffffff] ACPI data
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] BIOS-e820: [mem 0x00000000fec00000-0x00000000fec00fff] reserved
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] BIOS-e820: [mem 0x00000000fee00000-0x00000000fee00fff] reserved
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] BIOS-e820: [mem 0x00000000fffc0000-0x00000000ffffffff] reserved
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] NX (Execute Disable) protection: active
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] SMBIOS 2.5 present.
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] DMI: innotek GmbH VirtualBox/VirtualBox, BIOS VirtualBox 12/01/2006
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] Hypervisor detected: KVM
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] kvm-clock: Using msrs 4b564d01 and 4b564d00
+Mar 13 05:09:09 devbox1 kernel: [    0.000000] kvm-clock: cpu 0, msr 1c801001, primary cpu clock
+Mar 13 05:09:09 devbox1 kernel: [    0.000002] kvm-clock: using sched offset of 5097231356 cycles
+Mar 13 05:09:09 devbox1 kernel: [    0.000004] clocksource: kvm-clock: mask: 0xffffffffffffffff max_cycles: 0x1cd42e4dffb, max_idle_ns: 881590591483 ns
+Mar 13 05:09:09 devbox1 kernel: [    0.000008] tsc: Detected 3191.998 MHz processor
+Mar 13 05:09:09 devbox1 kernel: [    0.001086] e820: update [mem 0x00000000-0x00000fff] usable ==> reserved
+Mar 13 05:09:09 devbox1 kernel: [    0.001091] e820: remove [mem 0x000a0000-0x000fffff] usable
+Mar 13 05:09:09 devbox1 kernel: [    0.001097] last_pfn = 0x3fff0 max_arch_pfn = 0x400000000
+Mar 13 05:09:09 devbox1 kernel: [    0.001111] Disabled
+Mar 13 05:09:09 devbox1 kernel: [    0.001113] x86/PAT: MTRRs disabled, skipping PAT initialization too.
+Mar 13 05:09:09 devbox1 kernel: [    0.001116] CPU MTRRs all blank - virtualized system.
+Mar 13 05:09:09 devbox1 kernel: [    0.001119] x86/PAT: Configuration [0-7]: WB  WT  UC- UC  WB  WT  UC- UC  
+Mar 13 05:09:09 devbox1 kernel: [    0.001201] found SMP MP-table at [mem 0x0009fff0-0x0009ffff]
+Mar 13 05:09:09 devbox1 kernel: [    0.001584] RAMDISK: [mem 0x2ad75000-0x316b1fff]
+Mar 13 05:09:09 devbox1 kernel: [    0.001592] ACPI: Early table checksum verification disabled
+Mar 13 05:09:09 devbox1 kernel: [    0.001597] ACPI: RSDP 0x00000000000E0000 000024 (v02 VBOX  )
+Mar 13 05:09:09 devbox1 kernel: [    0.001603] ACPI: XSDT 0x000000003FFF0030 00003C (v01 VBOX   VBOXXSDT 00000001 ASL  00000061)
+Mar 13 05:09:09 devbox1 kernel: [    0.001611] ACPI: FACP 0x000000003FFF00F0 0000F4 (v04 VBOX   VBOXFACP 00000001 ASL  00000061)
+Mar 13 05:09:09 devbox1 kernel: [    0.001620] ACPI: DSDT 0x000000003FFF0470 002325 (v02 VBOX   VBOXBIOS 00000002 INTL 20200925)
+Mar 13 05:09:09 devbox1 kernel: [    0.001626] ACPI: FACS 0x000000003FFF0200 000040
+Mar 13 05:09:09 devbox1 kernel: [    0.001631] ACPI: FACS 0x000000003FFF0200 000040
+Mar 13 05:09:09 devbox1 kernel: [    0.001637] ACPI: APIC 0x000000003FFF0240 000054 (v02 VBOX   VBOXAPIC 00000001 ASL  00000061)
+Mar 13 05:09:09 devbox1 kernel: [    0.001642] ACPI: SSDT 0x000000003FFF02A0 0001CC (v01 VBOX   VBOXCPUT 00000002 INTL 20200925)
+Mar 13 05:09:09 devbox1 kernel: [    0.001662] ACPI: Reserving FACP table memory at [mem 0x3fff00f0-0x3fff01e3]
+Mar 13 05:09:09 devbox1 kernel: [    0.001664] ACPI: Reserving DSDT table memory at [mem 0x3fff0470-0x3fff2794]
+Mar 13 05:09:09 devbox1 kernel: [    0.001666] ACPI: Reserving FACS table memory at [mem 0x3fff0200-0x3fff023f]
+Mar 13 05:09:09 devbox1 kernel: [    0.001667] ACPI: Reserving FACS table memory at [mem 0x3fff0200-0x3fff023f]
+Mar 13 05:09:09 devbox1 kernel: [    0.001669] ACPI: Reserving APIC table memory at [mem 0x3fff0240-0x3fff0293]
+Mar 13 05:09:09 devbox1 kernel: [    0.001685] ACPI: Reserving SSDT table memory at [mem 0x3fff02a0-0x3fff046b]
+Mar 13 05:09:09 devbox1 kernel: [    0.002034] No NUMA configuration found
+Mar 13 05:09:09 devbox1 kernel: [    0.002037] Faking a node at [mem 0x0000000000000000-0x000000003ffeffff]
+Mar 13 05:09:09 devbox1 kernel: [    0.002046] NODE_DATA(0) allocated [mem 0x3ffc6000-0x3ffeffff]
+Mar 13 05:09:09 devbox1 kernel: [    0.002509] Zone ranges:
+Mar 13 05:09:09 devbox1 kernel: [    0.002511]   DMA      [mem 0x0000000000001000-0x0000000000ffffff]
+Mar 13 05:09:09 devbox1 kernel: [    0.002514]   DMA32    [mem 0x0000000001000000-0x000000003ffeffff]
+Mar 13 05:09:09 devbox1 kernel: [    0.002517]   Normal   empty
+Mar 13 05:09:09 devbox1 kernel: [    0.002519]   Device   empty
+Mar 13 05:09:09 devbox1 kernel: [    0.002521] Movable zone start for each node
+Mar 13 05:09:09 devbox1 kernel: [    0.002524] Early memory node ranges
+Mar 13 05:09:09 devbox1 kernel: [    0.002526]   node   0: [mem 0x0000000000001000-0x000000000009efff]
+Mar 13 05:09:09 devbox1 kernel: [    0.002528]   node   0: [mem 0x0000000000100000-0x000000003ffeffff]
+Mar 13 05:09:09 devbox1 kernel: [    0.002530] Initmem setup node 0 [mem 0x0000000000001000-0x000000003ffeffff]
+Mar 13 05:09:09 devbox1 kernel: [    0.002536] On node 0, zone DMA: 1 pages in unavailable ranges
+Mar 13 05:09:09 devbox1 kernel: [    0.002576] On node 0, zone DMA: 97 pages in unavailable ranges
+Mar 13 05:09:09 devbox1 kernel: [    0.005046] On node 0, zone DMA32: 16 pages in unavailable ranges
+Mar 13 05:09:09 devbox1 kernel: [    0.005513] ACPI: PM-Timer IO Port: 0x4008
+Mar 13 05:09:09 devbox1 kernel: [    0.005591] IOAPIC[0]: apic_id 1, version 32, address 0xfec00000, GSI 0-23
+Mar 13 05:09:09 devbox1 kernel: [    0.005596] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Mar 13 05:09:09 devbox1 kernel: [    0.005599] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 low level)
+Mar 13 05:09:09 devbox1 kernel: [    0.005605] ACPI: Using ACPI (MADT) for SMP configuration information
+Mar 13 05:09:09 devbox1 kernel: [    0.005614] smpboot: Allowing 1 CPUs, 0 hotplug CPUs
+Mar 13 05:09:09 devbox1 kernel: [    0.005637] PM: hibernation: Registered nosave memory: [mem 0x00000000-0x00000fff]
+Mar 13 05:09:09 devbox1 kernel: [    0.005640] PM: hibernation: Registered nosave memory: [mem 0x0009f000-0x0009ffff]
+Mar 13 05:09:09 devbox1 kernel: [    0.005642] PM: hibernation: Registered nosave memory: [mem 0x000a0000-0x000effff]
+Mar 13 05:09:09 devbox1 kernel: [    0.005643] PM: hibernation: Registered nosave memory: [mem 0x000f0000-0x000fffff]
+Mar 13 05:09:09 devbox1 kernel: [    0.005646] [mem 0x40000000-0xfebfffff] available for PCI devices
+Mar 13 05:09:09 devbox1 kernel: [    0.005648] Booting paravirtualized kernel on KVM
+Mar 13 05:09:09 devbox1 kernel: [    0.005651] clocksource: refined-jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645519600211568 ns
+Mar 13 05:09:09 devbox1 kernel: [    0.005658] setup_percpu: NR_CPUS:8192 nr_cpumask_bits:1 nr_cpu_ids:1 nr_node_ids:1
+Mar 13 05:09:09 devbox1 kernel: [    0.005764] percpu: Embedded 60 pages/cpu s208896 r8192 d28672 u2097152
+Mar 13 05:09:09 devbox1 kernel: [    0.005770] pcpu-alloc: s208896 r8192 d28672 u2097152 alloc=1*2097152
+Mar 13 05:09:09 devbox1 kernel: [    0.005774] pcpu-alloc: [0] 0 
+Mar 13 05:09:09 devbox1 kernel: [    0.005799] kvm-guest: PV spinlocks disabled, single CPU
+Mar 13 05:09:09 devbox1 kernel: [    0.005807] Built 1 zonelists, mobility grouping on.  Total pages: 257776
+Mar 13 05:09:09 devbox1 kernel: [    0.005809] Policy zone: DMA32
+Mar 13 05:09:09 devbox1 kernel: [    0.005811] Kernel command line: BOOT_IMAGE=/vmlinuz-5.15.0-67-generic root=/dev/mapper/ubuntu--vg-ubuntu--lv ro
+Mar 13 05:09:09 devbox1 kernel: [    0.005854] Unknown kernel command line parameters "BOOT_IMAGE=/vmlinuz-5.15.0-67-generic", will be passed to user space.
+Mar 13 05:09:09 devbox1 kernel: [    0.005894] Dentry cache hash table entries: 131072 (order: 8, 1048576 bytes, linear)
+Mar 13 05:09:09 devbox1 kernel: [    0.005915] Inode-cache hash table entries: 65536 (order: 7, 524288 bytes, linear)
+Mar 13 05:09:09 devbox1 kernel: [    0.005961] mem auto-init: stack:off, heap alloc:on, heap free:off
+Mar 13 05:09:09 devbox1 kernel: [    0.008545] Memory: 875960K/1048120K available (16393K kernel code, 4379K rwdata, 10820K rodata, 3240K init, 6556K bss, 171900K reserved, 0K cma-reserved)
+Mar 13 05:09:09 devbox1 kernel: [    0.009757] SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+Mar 13 05:09:09 devbox1 kernel: [    0.009807] Kernel/User page tables isolation: enabled
+Mar 13 05:09:09 devbox1 kernel: [    0.009834] ftrace: allocating 50555 entries in 198 pages
+Mar 13 05:09:09 devbox1 kernel: [    0.037068] ftrace: allocated 198 pages with 4 groups
+Mar 13 05:09:09 devbox1 kernel: [    0.037245] rcu: Hierarchical RCU implementation.
+Mar 13 05:09:09 devbox1 kernel: [    0.037247] rcu: 	RCU restricting CPUs from NR_CPUS=8192 to nr_cpu_ids=1.
+Mar 13 05:09:09 devbox1 kernel: [    0.037249] 	Rude variant of Tasks RCU enabled.
+Mar 13 05:09:09 devbox1 kernel: [    0.037250] 	Tracing variant of Tasks RCU enabled.
+Mar 13 05:09:09 devbox1 kernel: [    0.037251] rcu: RCU calculated value of scheduler-enlistment delay is 25 jiffies.
+Mar 13 05:09:09 devbox1 kernel: [    0.037253] rcu: Adjusting geometry for rcu_fanout_leaf=16, nr_cpu_ids=1
+Mar 13 05:09:09 devbox1 kernel: [    0.042805] NR_IRQS: 524544, nr_irqs: 256, preallocated irqs: 16
+Mar 13 05:09:09 devbox1 kernel: [    0.043100] random: crng init done
+Mar 13 05:09:09 devbox1 kernel: [    0.053030] Console: colour VGA+ 80x25
+Mar 13 05:09:09 devbox1 kernel: [    0.084507] printk: console [tty0] enabled
+Mar 13 05:09:09 devbox1 kernel: [    0.084747] ACPI: Core revision 20210730
+Mar 13 05:09:09 devbox1 kernel: [    0.085279] APIC: Switch to symmetric I/O mode setup
+Mar 13 05:09:09 devbox1 kernel: [    0.086013] x2apic enabled
+Mar 13 05:09:09 devbox1 kernel: [    0.086593] Switched APIC routing to physical x2apic.
+Mar 13 05:09:09 devbox1 kernel: [    0.088375] ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+Mar 13 05:09:09 devbox1 kernel: [    0.088772] clocksource: tsc-early: mask: 0xffffffffffffffff max_cycles: 0x2e02c314322, max_idle_ns: 440795292111 ns
+Mar 13 05:09:09 devbox1 kernel: [    0.089269] Calibrating delay loop (skipped) preset value.. 6383.99 BogoMIPS (lpj=12767992)
+Mar 13 05:09:09 devbox1 kernel: [    0.089766] pid_max: default: 32768 minimum: 301
+Mar 13 05:09:09 devbox1 kernel: [    0.090036] LSM: Security Framework initializing
+Mar 13 05:09:09 devbox1 kernel: [    0.090289] landlock: Up and running.
+Mar 13 05:09:09 devbox1 kernel: [    0.090503] Yama: becoming mindful.
+Mar 13 05:09:09 devbox1 kernel: [    0.090739] AppArmor: AppArmor initialized
+Mar 13 05:09:09 devbox1 kernel: [    0.090995] Mount-cache hash table entries: 2048 (order: 2, 16384 bytes, linear)
+Mar 13 05:09:09 devbox1 kernel: [    0.091382] Mountpoint-cache hash table entries: 2048 (order: 2, 16384 bytes, linear)
+Mar 13 05:09:09 devbox1 kernel: [    0.092216] process: using mwait in idle threads
+Mar 13 05:09:09 devbox1 kernel: [    0.092473] Last level iTLB entries: 4KB 128, 2MB 8, 4MB 8
+Mar 13 05:09:09 devbox1 kernel: [    0.092749] Last level dTLB entries: 4KB 64, 2MB 0, 4MB 0, 1GB 4
+Mar 13 05:09:09 devbox1 kernel: [    0.093046] Spectre V1 : Mitigation: usercopy/swapgs barriers and __user pointer sanitization
+Mar 13 05:09:09 devbox1 kernel: [    0.093264] Spectre V2 : Mitigation: Retpolines
+Mar 13 05:09:09 devbox1 kernel: [    0.093264] Spectre V2 : Spectre v2 / SpectreRSB mitigation: Filling RSB on context switch
+Mar 13 05:09:09 devbox1 kernel: [    0.093264] Spectre V2 : Spectre v2 / SpectreRSB : Filling RSB on VMEXIT
+Mar 13 05:09:09 devbox1 kernel: [    0.093264] RETBleed: WARNING: Spectre v2 mitigation leaves CPU vulnerable to RETBleed attacks, data leaks possible!
+Mar 13 05:09:09 devbox1 kernel: [    0.093264] RETBleed: Vulnerable
+Mar 13 05:09:09 devbox1 kernel: [    0.093264] Speculative Store Bypass: Vulnerable
+Mar 13 05:09:09 devbox1 kernel: [    0.093264] MDS: Mitigation: Clear CPU buffers
+Mar 13 05:09:09 devbox1 kernel: [    0.093264] MMIO Stale Data: Mitigation: Clear CPU buffers
+Mar 13 05:09:09 devbox1 kernel: [    0.093264] SRBDS: Unknown: Dependent on hypervisor status
+Mar 13 05:09:09 devbox1 kernel: [    0.125734] Freeing SMP alternatives memory: 44K
+Mar 13 05:09:09 devbox1 kernel: [    0.235005] smpboot: CPU0: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz (family: 0x6, model: 0x5e, stepping: 0x3)
+Mar 13 05:09:09 devbox1 kernel: [    0.235630] Performance Events: unsupported p6 CPU model 94 no PMU driver, software events only.
+Mar 13 05:09:09 devbox1 kernel: [    0.236087] rcu: Hierarchical SRCU implementation.
+Mar 13 05:09:09 devbox1 kernel: [    0.236779] NMI watchdog: Perf NMI watchdog permanently disabled
+Mar 13 05:09:09 devbox1 kernel: [    0.237139] smp: Bringing up secondary CPUs ...
+Mar 13 05:09:09 devbox1 kernel: [    0.237264] smp: Brought up 1 node, 1 CPU
+Mar 13 05:09:09 devbox1 kernel: [    0.237264] smpboot: Max logical packages: 1
+Mar 13 05:09:09 devbox1 kernel: [    0.237264] smpboot: Total of 1 processors activated (6383.99 BogoMIPS)
+Mar 13 05:09:09 devbox1 kernel: [    0.237264] devtmpfs: initialized
+Mar 13 05:09:09 devbox1 kernel: [    0.237264] x86/mm: Memory block size: 128MB
+Mar 13 05:09:09 devbox1 kernel: [    0.237264] clocksource: jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645041785100000 ns
+Mar 13 05:09:09 devbox1 kernel: [    0.237264] futex hash table entries: 256 (order: 2, 16384 bytes, linear)
+Mar 13 05:09:09 devbox1 kernel: [    0.237264] pinctrl core: initialized pinctrl subsystem
+Mar 13 05:09:09 devbox1 kernel: [    0.237267] PM: RTC time: 05:08:58, date: 2023-03-13
+Mar 13 05:09:09 devbox1 kernel: [    0.237621] NET: Registered PF_NETLINK/PF_ROUTE protocol family
+Mar 13 05:09:09 devbox1 kernel: [    0.238018] DMA: preallocated 128 KiB GFP_KERNEL pool for atomic allocations
+Mar 13 05:09:09 devbox1 kernel: [    0.238342] DMA: preallocated 128 KiB GFP_KERNEL|GFP_DMA pool for atomic allocations
+Mar 13 05:09:09 devbox1 kernel: [    0.238740] DMA: preallocated 128 KiB GFP_KERNEL|GFP_DMA32 pool for atomic allocations
+Mar 13 05:09:09 devbox1 kernel: [    0.239142] audit: initializing netlink subsys (disabled)
+Mar 13 05:09:09 devbox1 kernel: [    0.239540] thermal_sys: Registered thermal governor 'fair_share'
+Mar 13 05:09:09 devbox1 kernel: [    0.239542] thermal_sys: Registered thermal governor 'bang_bang'
+Mar 13 05:09:09 devbox1 kernel: [    0.239831] thermal_sys: Registered thermal governor 'step_wise'
+Mar 13 05:09:09 devbox1 kernel: [    0.240113] thermal_sys: Registered thermal governor 'user_space'
+Mar 13 05:09:09 devbox1 kernel: [    0.240395] thermal_sys: Registered thermal governor 'power_allocator'
+Mar 13 05:09:09 devbox1 kernel: [    0.240684] EISA bus registered
+Mar 13 05:09:09 devbox1 kernel: [    0.241179] cpuidle: using governor ladder
+Mar 13 05:09:09 devbox1 kernel: [    0.241264] cpuidle: using governor menu
+Mar 13 05:09:09 devbox1 kernel: [    0.241264] ACPI: bus type PCI registered
+Mar 13 05:09:09 devbox1 kernel: [    0.241264] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Mar 13 05:09:09 devbox1 kernel: [    0.241293] PCI: Using configuration type 1 for base access
+Mar 13 05:09:09 devbox1 kernel: [    0.243464] Kprobes globally optimized
+Mar 13 05:09:09 devbox1 kernel: [    0.243752] audit: type=2000 audit(1678684144.561:1): state=initialized audit_enabled=0 res=1
+Mar 13 05:09:09 devbox1 kernel: [    0.245141] HugeTLB registered 2.00 MiB page size, pre-allocated 0 pages
+Mar 13 05:09:09 devbox1 kernel: [    0.245276] ACPI: Added _OSI(Module Device)
+Mar 13 05:09:09 devbox1 kernel: [    0.245508] ACPI: Added _OSI(Processor Device)
+Mar 13 05:09:09 devbox1 kernel: [    0.245743] ACPI: Added _OSI(3.0 _SCP Extensions)
+Mar 13 05:09:09 devbox1 kernel: [    0.245987] ACPI: Added _OSI(Processor Aggregator Device)
+Mar 13 05:09:09 devbox1 kernel: [    0.246252] ACPI: Added _OSI(Linux-Dell-Video)
+Mar 13 05:09:09 devbox1 kernel: [    0.246487] ACPI: Added _OSI(Linux-Lenovo-NV-HDMI-Audio)
+Mar 13 05:09:09 devbox1 kernel: [    0.246747] ACPI: Added _OSI(Linux-HPI-Hybrid-Graphics)
+Mar 13 05:09:09 devbox1 kernel: [    0.250190] ACPI: 2 ACPI AML tables successfully acquired and loaded
+Mar 13 05:09:09 devbox1 kernel: [    0.254996] ACPI: Interpreter enabled
+Mar 13 05:09:09 devbox1 kernel: [    0.255229] ACPI: PM: (supports S0 S5)
+Mar 13 05:09:09 devbox1 kernel: [    0.255451] ACPI: Using IOAPIC for interrupt routing
+Mar 13 05:09:09 devbox1 kernel: [    0.256027] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Mar 13 05:09:09 devbox1 kernel: [    0.256496] PCI: Using E820 reservations for host bridge windows
+Mar 13 05:09:09 devbox1 kernel: [    0.256949] ACPI: Enabled 2 GPEs in block 00 to 07
+Mar 13 05:09:09 devbox1 kernel: [    0.264879] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+Mar 13 05:09:09 devbox1 kernel: [    0.265178] acpi PNP0A03:00: _OSC: OS supports [ASPM ClockPM Segments MSI EDR HPX-Type3]
+Mar 13 05:09:09 devbox1 kernel: [    0.265714] acpi PNP0A03:00: _OSC: not requesting OS control; OS requires [ExtendedConfig ASPM ClockPM MSI]
+Mar 13 05:09:09 devbox1 kernel: [    0.266307] acpi PNP0A03:00: fail to add MMCONFIG information, can't access extended PCI configuration space under this bridge.
+Mar 13 05:09:09 devbox1 kernel: [    0.267530] PCI host bridge to bus 0000:00
+Mar 13 05:09:09 devbox1 kernel: [    0.267785] pci_bus 0000:00: root bus resource [bus 00-ff]
+Mar 13 05:09:09 devbox1 kernel: [    0.268079] pci_bus 0000:00: root bus resource [io  0x0000-0x0cf7 window]
+Mar 13 05:09:09 devbox1 kernel: [    0.268447] pci_bus 0000:00: root bus resource [io  0x0d00-0xffff window]
+Mar 13 05:09:09 devbox1 kernel: [    0.268799] pci_bus 0000:00: root bus resource [mem 0x000a0000-0x000bffff window]
+Mar 13 05:09:09 devbox1 systemd-modules-load[381]: Inserted module 'msr'
+Mar 13 05:09:09 devbox1 systemd-modules-load[381]: Inserted module 'ipmi_devintf'
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Flush Journal to Persistent Storage...
+Mar 13 05:09:09 devbox1 systemd[1]: modprobe@fuse.service: Deactivated successfully.
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Load Kernel Module fuse.
+Mar 13 05:09:09 devbox1 systemd[1]: Mounting FUSE Control File System...
+Mar 13 05:09:09 devbox1 systemd[1]: Mounted FUSE Control File System.
+Mar 13 05:09:09 devbox1 lvm[370]:   1 logical volume(s) in volume group "ubuntu-vg" monitored
+Mar 13 05:09:09 devbox1 systemd[1]: modprobe@efi_pstore.service: Deactivated successfully.
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Load Kernel Module efi_pstore.
+Mar 13 05:09:09 devbox1 systemd[1]: modprobe@ramoops.service: Deactivated successfully.
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Load Kernel Module ramoops.
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Apply Kernel Variables.
+Mar 13 05:09:09 devbox1 systemd[1]: modprobe@pstore_zone.service: Deactivated successfully.
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Load Kernel Module pstore_zone.
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Create Static Device Nodes in /dev.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Rule-based Manager for Device Events and Files...
+Mar 13 05:09:09 devbox1 systemd[1]: modprobe@pstore_blk.service: Deactivated successfully.
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Load Kernel Module pstore_blk.
+Mar 13 05:09:09 devbox1 systemd[1]: Condition check resulted in Platform Persistent Storage Archival being skipped.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Device-Mapper Multipath Device Controller.
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Coldplug All udev Devices.
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Set the console keyboard layout.
+Mar 13 05:09:09 devbox1 systemd[1]: Reached target Preparation for Local File Systems.
+Mar 13 05:09:09 devbox1 systemd[1]: Mounting Mount unit for core20, revision 1778...
+Mar 13 05:09:09 devbox1 systemd[1]: Mounting Mount unit for core20, revision 1822...
+Mar 13 05:09:09 devbox1 systemd[1]: Mounting Mount unit for lxd, revision 22923...
+Mar 13 05:09:09 devbox1 systemd[1]: Mounting Mount unit for lxd, revision 24322...
+Mar 13 05:09:09 devbox1 multipathd[408]: --------start up--------
+Mar 13 05:09:09 devbox1 multipathd[408]: read /etc/multipath.conf
+Mar 13 05:09:09 devbox1 multipathd[408]: path checkers start up
+Mar 13 05:09:09 devbox1 systemd[1]: Mounting Mount unit for snapd, revision 17950...
+Mar 13 05:09:09 devbox1 systemd[1]: Mounting Mount unit for snapd, revision 18357...
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Flush Journal to Persistent Storage.
+Mar 13 05:09:09 devbox1 systemd[1]: Mounted Mount unit for lxd, revision 24322.
+Mar 13 05:09:09 devbox1 systemd[1]: Mounted Mount unit for lxd, revision 22923.
+Mar 13 05:09:09 devbox1 systemd[1]: Mounted Mount unit for core20, revision 1822.
+Mar 13 05:09:09 devbox1 systemd[1]: Mounted Mount unit for core20, revision 1778.
+Mar 13 05:09:09 devbox1 systemd[1]: Mounted Mount unit for snapd, revision 17950.
+Mar 13 05:09:09 devbox1 systemd[1]: Mounted Mount unit for snapd, revision 18357.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Rule-based Manager for Device Events and Files.
+Mar 13 05:09:09 devbox1 systemd[1]: Condition check resulted in Show Plymouth Boot Screen being skipped.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Dispatch Password Requests to Console Directory Watch.
+Mar 13 05:09:09 devbox1 systemd[1]: Condition check resulted in Forward Password Requests to Plymouth Directory Watch being skipped.
+Mar 13 05:09:09 devbox1 systemd[1]: Reached target Local Encrypted Volumes.
+Mar 13 05:09:09 devbox1 systemd-udevd[430]: Using default interface naming scheme 'v249'.
+Mar 13 05:09:09 devbox1 systemd-udevd[437]: sda: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sda' failed with exit code 1.
+Mar 13 05:09:09 devbox1 systemd[1]: Listening on Load/Save RF Kill Switch Status /dev/rfkill Watch.
+Mar 13 05:09:09 devbox1 systemd-udevd[434]: sr0: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sr0' failed with exit code 1.
+Mar 13 05:09:09 devbox1 systemd-udevd[430]: sda3: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sda3' failed with exit code 1.
+Mar 13 05:09:09 devbox1 systemd[1]: Created slice Slice /system/lvm2-pvscan.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting LVM event activation on device 8:3...
+Mar 13 05:09:09 devbox1 systemd-udevd[438]: sda2: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sda2' failed with exit code 1.
+Mar 13 05:09:09 devbox1 systemd[1]: Found device VBOX_HARDDISK 2.
+Mar 13 05:09:09 devbox1 lvm[521]:   pvscan[521] PV /dev/sda3 online, VG ubuntu-vg is complete.
+Mar 13 05:09:09 devbox1 lvm[521]:   pvscan[521] VG ubuntu-vg skip autoactivation.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting File System Check on /dev/disk/by-uuid/a029bdd3-31c2-413d-9ead-4c4df9d214e2...
+Mar 13 05:09:09 devbox1 systemd[1]: Finished LVM event activation on device 8:3.
+Mar 13 05:09:09 devbox1 systemd[1]: Started File System Check Daemon to report status.
+Mar 13 05:09:09 devbox1 systemd-udevd[434]: sda1: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/sda1' failed with exit code 1.
+Mar 13 05:09:09 devbox1 systemd-fsck[530]: /dev/sda2: recovering journal
+Mar 13 05:09:09 devbox1 systemd-fsck[530]: /dev/sda2: clean, 320/114688 files, 80970/458752 blocks
+Mar 13 05:09:09 devbox1 systemd[1]: Finished File System Check on /dev/disk/by-uuid/a029bdd3-31c2-413d-9ead-4c4df9d214e2.
+Mar 13 05:09:09 devbox1 systemd[1]: Mounting /boot...
+Mar 13 05:09:09 devbox1 systemd-udevd[436]: dm-0: Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/dm-0' failed with exit code 1.
+Mar 13 05:09:09 devbox1 systemd[1]: Mounted /boot.
+Mar 13 05:09:09 devbox1 systemd[1]: Reached target Local File Systems.
+Mar 13 05:09:09 devbox1 systemd[1]: Reached target Sound Card.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Load AppArmor profiles...
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Set console font and keymap...
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Create final runtime dir for shutdown pivot root...
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Tell Plymouth To Write Out Runtime Data...
+Mar 13 05:09:09 devbox1 systemd[1]: Condition check resulted in Set Up Additional Binary Formats being skipped.
+Mar 13 05:09:09 devbox1 systemd[1]: Condition check resulted in Store a System Token in an EFI Variable being skipped.
+Mar 13 05:09:09 devbox1 systemd[1]: Condition check resulted in Commit a transient machine-id on disk being skipped.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Create Volatile Files and Directories...
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Uncomplicated firewall...
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Create final runtime dir for shutdown pivot root.
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Uncomplicated firewall.
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Set console font and keymap.
+Mar 13 05:09:09 devbox1 apparmor.systemd[547]: Restarting AppArmor
+Mar 13 05:09:09 devbox1 apparmor.systemd[547]: Reloading AppArmor profiles
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Tell Plymouth To Write Out Runtime Data.
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Create Volatile Files and Directories.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Network Time Synchronization...
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Record System Boot/Shutdown in UTMP...
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Record System Boot/Shutdown in UTMP.
+Mar 13 05:09:09 devbox1 apparmor.systemd[596]: Skipping profile in /etc/apparmor.d/disable: usr.sbin.rsyslogd
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Load AppArmor profiles.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Load AppArmor profiles managed internally by snapd...
+Mar 13 05:09:09 devbox1 systemd[1]: Condition check resulted in Authentication service for virtual machines hosted on VMware being skipped.
+Mar 13 05:09:09 devbox1 systemd[1]: Condition check resulted in Service for virtual machines hosted on VMware being skipped.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Initial cloud-init job (pre-networking)...
+Mar 13 05:09:09 devbox1 systemd[1]: proc-sys-fs-binfmt_misc.automount: Got automount request for /proc/sys/fs/binfmt_misc, triggered by 597 (snapd-apparmor)
+Mar 13 05:09:09 devbox1 systemd[1]: Mounting Arbitrary Executable File Formats File System...
+Mar 13 05:09:09 devbox1 systemd[1]: Mounted Arbitrary Executable File Formats File System.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Network Time Synchronization.
+Mar 13 05:09:09 devbox1 systemd[1]: Reached target System Time Set.
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Load AppArmor profiles managed internally by snapd.
+Mar 13 05:09:09 devbox1 cloud-init[631]: Cloud-init v. 22.2-0ubuntu1~22.04.3 running 'init-local' at Mon, 13 Mar 2023 05:09:05 +0000. Up 7.86 seconds.
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Initial cloud-init job (pre-networking).
+Mar 13 05:09:09 devbox1 systemd[1]: Reached target Preparation for Network.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Network Configuration...
+Mar 13 05:09:09 devbox1 systemd-networkd[632]: lo: Link UP
+Mar 13 05:09:09 devbox1 systemd-networkd[632]: lo: Gained carrier
+Mar 13 05:09:09 devbox1 systemd-networkd[632]: Enumeration completed
+Mar 13 05:09:09 devbox1 systemd[1]: Started Network Configuration.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Wait for Network to be Configured...
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Network Name Resolution...
+Mar 13 05:09:09 devbox1 systemd-networkd[632]: enp0s3: Link UP
+Mar 13 05:09:09 devbox1 systemd-networkd[632]: enp0s3: Gained carrier
+Mar 13 05:09:09 devbox1 systemd-networkd[632]: enp0s3: DHCPv4 address 10.0.0.229/24 via 10.0.0.1
+Mar 13 05:09:09 devbox1 systemd-timesyncd[580]: Network configuration changed, trying to establish connection.
+Mar 13 05:09:09 devbox1 systemd-resolved[634]: Positive Trust Anchors:
+Mar 13 05:09:09 devbox1 systemd-resolved[634]: . IN DS 20326 8 2 e06d44b80b8f1d39a95c0b0d7c65d08458e880409bbc683457104237c7f8ec8d
+Mar 13 05:09:09 devbox1 systemd-resolved[634]: Negative trust anchors: home.arpa 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa corp home internal intranet lan local private test
+Mar 13 05:09:09 devbox1 systemd-resolved[634]: Using system hostname 'devbox1'.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Network Name Resolution.
+Mar 13 05:09:09 devbox1 systemd[1]: Reached target Network.
+Mar 13 05:09:09 devbox1 systemd[1]: Reached target Host and Network Name Lookups.
+Mar 13 05:09:09 devbox1 systemd-networkd[632]: enp0s3: Gained IPv6LL
+Mar 13 05:09:09 devbox1 systemd-networkd-wait-online[633]: managing: enp0s3
+Mar 13 05:09:09 devbox1 systemd-timesyncd[580]: Network configuration changed, trying to establish connection.
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Wait for Network to be Configured.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Initial cloud-init job (metadata service crawler)...
+Mar 13 05:09:09 devbox1 cloud-init[640]: Cloud-init v. 22.2-0ubuntu1~22.04.3 running 'init' at Mon, 13 Mar 2023 05:09:08 +0000. Up 10.32 seconds.
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: ++++++++++++++++++++++++++++++++++++++Net device info+++++++++++++++++++++++++++++++++++++++
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: +--------+------+-----------------------------+---------------+--------+-------------------+
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: | Device |  Up  |           Address           |      Mask     | Scope  |     Hw-Address    |
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: +--------+------+-----------------------------+---------------+--------+-------------------+
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: | enp0s3 | True |          10.0.0.229         | 255.255.255.0 | global | 08:00:27:96:94:fe |
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: | enp0s3 | True | fe80::a00:27ff:fe96:94fe/64 |       .       |  link  | 08:00:27:96:94:fe |
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: |   lo   | True |          127.0.0.1          |   255.0.0.0   |  host  |         .         |
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: |   lo   | True |           ::1/128           |       .       |  host  |         .         |
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: +--------+------+-----------------------------+---------------+--------+-------------------+
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: ++++++++++++++++++++++++++++Route IPv4 info+++++++++++++++++++++++++++++
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: +-------+-------------+----------+-----------------+-----------+-------+
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: | Route | Destination | Gateway  |     Genmask     | Interface | Flags |
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: +-------+-------------+----------+-----------------+-----------+-------+
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: |   0   |   0.0.0.0   | 10.0.0.1 |     0.0.0.0     |   enp0s3  |   UG  |
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: |   1   |   10.0.0.0  | 0.0.0.0  |  255.255.255.0  |   enp0s3  |   U   |
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: |   2   |   10.0.0.1  | 0.0.0.0  | 255.255.255.255 |   enp0s3  |   UH  |
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: |   3   | 75.75.75.75 | 10.0.0.1 | 255.255.255.255 |   enp0s3  |  UGH  |
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: |   4   | 75.75.76.76 | 10.0.0.1 | 255.255.255.255 |   enp0s3  |  UGH  |
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: +-------+-------------+----------+-----------------+-----------+-------+
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: +-------+-------------+---------+-----------+-------+
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: | Route | Destination | Gateway | Interface | Flags |
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: +-------+-------------+---------+-----------+-------+
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: |   1   |  fe80::/64  |    ::   |   enp0s3  |   U   |
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: |   3   |    local    |    ::   |   enp0s3  |   U   |
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: |   4   |  multicast  |    ::   |   enp0s3  |   U   |
+Mar 13 05:09:09 devbox1 cloud-init[640]: ci-info: +-------+-------------+---------+-----------+-------+
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Initial cloud-init job (metadata service crawler).
+Mar 13 05:09:09 devbox1 systemd[1]: Reached target Cloud-config availability.
+Mar 13 05:09:09 devbox1 systemd[1]: Reached target Network is Online.
+Mar 13 05:09:09 devbox1 systemd[1]: Reached target System Initialization.
+Mar 13 05:09:09 devbox1 systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+Mar 13 05:09:09 devbox1 systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (timer based) being skipped.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Daily apt download activities.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Daily apt upgrade and clean activities.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Daily dpkg database backup timer.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Periodic ext4 Online Metadata Check for All Filesystems.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Discard unused blocks once a week.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Refresh fwupd metadata regularly.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Daily rotation of log files.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Daily man-db regeneration.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Message of the Day.
+Mar 13 05:09:09 devbox1 systemd[1]: Condition check resulted in Timer to automatically fetch and run repair assertions being skipped.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Daily Cleanup of Temporary Directories.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Ubuntu Advantage Timer for running repeated jobs.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Download data for packages that failed at package install time.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Check to see whether there is a new version of Ubuntu available.
+Mar 13 05:09:09 devbox1 systemd[1]: Reached target Path Units.
+Mar 13 05:09:09 devbox1 systemd[1]: Reached target Timer Units.
+Mar 13 05:09:09 devbox1 systemd[1]: Condition check resulted in Unix socket for apport crash forwarding being skipped.
+Mar 13 05:09:09 devbox1 systemd[1]: Listening on cloud-init hotplug hook socket.
+Mar 13 05:09:09 devbox1 systemd[1]: Listening on D-Bus System Message Bus Socket.
+Mar 13 05:09:09 devbox1 systemd[1]: Listening on Open-iSCSI iscsid Socket.
+Mar 13 05:09:09 devbox1 systemd-networkd[632]: enp0s3: DHCPv6 address 2601:2c6:8381:ee10::7e83/128 (valid for 2d 13h 30min 51s, preferred for 2d 13h 30min 51s)
+Mar 13 05:09:09 devbox1 systemd-timesyncd[580]: Network configuration changed, trying to establish connection.
+Mar 13 05:09:09 devbox1 systemd[1]: Listening on Socket unix for snap application lxd.daemon.
+Mar 13 05:09:09 devbox1 systemd[1]: Listening on Socket unix for snap application lxd.user-daemon.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Socket activation for snappy daemon...
+Mar 13 05:09:09 devbox1 systemd[1]: Listening on UUID daemon activation socket.
+Mar 13 05:09:09 devbox1 systemd[1]: Condition check resulted in Login to default iSCSI targets being skipped.
+Mar 13 05:09:09 devbox1 systemd[1]: Reached target Preparation for Remote File Systems.
+Mar 13 05:09:09 devbox1 systemd[1]: Reached target Remote File Systems.
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Availability of block devices.
+Mar 13 05:09:09 devbox1 systemd[1]: Listening on Socket activation for snappy daemon.
+Mar 13 05:09:09 devbox1 systemd[1]: Reached target Socket Units.
+Mar 13 05:09:09 devbox1 systemd[1]: Reached target Basic System.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting LSB: automatic crash report generation...
+Mar 13 05:09:09 devbox1 systemd[1]: Started Regular background program processing daemon.
+Mar 13 05:09:09 devbox1 systemd[1]: Started D-Bus System Message Bus.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Save initial kernel messages after boot.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Remove Stale Online ext4 Metadata Check Snapshots...
+Mar 13 05:09:09 devbox1 systemd[1]: Condition check resulted in getty on tty2-tty6 if dbus and logind are not available being skipped.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Record successful boot for GRUB...
+Mar 13 05:09:09 devbox1 systemd[1]: Started irqbalance daemon.
+Mar 13 05:09:09 devbox1 cron[645]: (CRON) INFO (pidfile fd = 3)
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Dispatcher daemon for systemd-networkd...
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Authorization Manager...
+Mar 13 05:09:09 devbox1 systemd[1]: Condition check resulted in Pollinate to seed the pseudo random number generator being skipped.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting System Logging Service...
+Mar 13 05:09:09 devbox1 systemd[1]: Condition check resulted in Secure Boot updates for DB and DBX being skipped.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Service for snap application lxd.activate...
+Mar 13 05:09:09 devbox1 systemd[1]: Condition check resulted in Userspace listener for prompt events being skipped.
+Mar 13 05:09:09 devbox1 systemd[1]: Condition check resulted in Automatically repair incorrect owner/permissions on core devices being skipped.
+Mar 13 05:09:09 devbox1 systemd[1]: Condition check resulted in Wait for the Ubuntu Core chooser trigger being skipped.
+Mar 13 05:09:09 devbox1 systemd[1]: Reached target Preparation for Logins.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Snap Daemon...
+Mar 13 05:09:09 devbox1 systemd[1]: Starting OpenBSD Secure Shell server...
+Mar 13 05:09:09 devbox1 systemd[1]: Starting User Login Management...
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Permit User Sessions...
+Mar 13 05:09:09 devbox1 systemd[1]: Condition check resulted in Thermal Daemon Service being skipped.
+Mar 13 05:09:09 devbox1 systemd[1]: Condition check resulted in Ubuntu Advantage reboot cmds being skipped.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Disk Manager...
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Rotate log files...
+Mar 13 05:09:09 devbox1 /usr/sbin/irqbalance: Balancing is ineffective on systems with a single cpu.  Shutting down
+Mar 13 05:09:09 devbox1 cron[645]: (CRON) INFO (Running @reboot jobs)
+Mar 13 05:09:09 devbox1 systemd[1]: irqbalance.service: Deactivated successfully.
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Permit User Sessions.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Hold until boot process finishes up...
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Terminate Plymouth Boot Screen...
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Hold until boot process finishes up.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Set console scheme...
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Terminate Plymouth Boot Screen.
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Set console scheme.
+Mar 13 05:09:09 devbox1 systemd[1]: Created slice Slice /system/getty.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Getty on tty1.
+Mar 13 05:09:09 devbox1 systemd[1]: Reached target Login Prompts.
+Mar 13 05:09:09 devbox1 systemd[1]: e2scrub_reap.service: Deactivated successfully.
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Remove Stale Online ext4 Metadata Check Snapshots.
+Mar 13 05:09:09 devbox1 dbus-daemon[646]: dbus[646]: Unknown group "power" in message bus configuration file
+Mar 13 05:09:09 devbox1 systemd[1]: Started System Logging Service.
+Mar 13 05:09:09 devbox1 rsyslogd: imuxsock: Acquired UNIX socket '/run/systemd/journal/syslog' (fd 3) from systemd.  [v8.2112.0]
+Mar 13 05:09:09 devbox1 rsyslogd: rsyslogd's groupid changed to 113
+Mar 13 05:09:09 devbox1 rsyslogd: rsyslogd's userid changed to 107
+Mar 13 05:09:09 devbox1 rsyslogd: [origin software="rsyslogd" swVersion="8.2112.0" x-pid="655" x-info="https://www.rsyslog.com"] start
+Mar 13 05:09:09 devbox1 systemd[1]: grub-common.service: Deactivated successfully.
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Record successful boot for GRUB.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting GRUB failed boot detection...
+Mar 13 05:09:09 devbox1 apport[644]:  * Starting automatic crash report generation: apport
+Mar 13 05:09:09 devbox1 udisksd[661]: udisks daemon version 2.9.4 starting
+Mar 13 05:09:09 devbox1 kernel: [    0.269181] pci_bus 0000:00: root bus resource [mem 0x40000000-0xfdffffff window]
+Mar 13 05:09:09 devbox1 kernel: [    0.269670] pci 0000:00:00.0: [8086:1237] type 00 class 0x060000
+Mar 13 05:09:09 devbox1 kernel: [    0.270964] pci 0000:00:01.0: [8086:7000] type 00 class 0x060100
+Mar 13 05:09:09 devbox1 kernel: [    0.273274] pci 0000:00:01.1: [8086:7111] type 00 class 0x01018a
+Mar 13 05:09:09 devbox1 kernel: [    0.273873] pci 0000:00:01.1: reg 0x20: [io  0xd000-0xd00f]
+Mar 13 05:09:09 devbox1 kernel: [    0.274273] pci 0000:00:01.1: legacy IDE quirk: reg 0x10: [io  0x01f0-0x01f7]
+Mar 13 05:09:09 devbox1 kernel: [    0.274589] pci 0000:00:01.1: legacy IDE quirk: reg 0x14: [io  0x03f6]
+Mar 13 05:09:09 devbox1 kernel: [    0.274886] pci 0000:00:01.1: legacy IDE quirk: reg 0x18: [io  0x0170-0x0177]
+Mar 13 05:09:09 devbox1 kernel: [    0.275200] pci 0000:00:01.1: legacy IDE quirk: reg 0x1c: [io  0x0376]
+Mar 13 05:09:09 devbox1 kernel: [    0.276253] pci 0000:00:02.0: [15ad:0405] type 00 class 0x030000
+Mar 13 05:09:09 devbox1 kernel: [    0.277300] pci 0000:00:02.0: reg 0x10: [io  0xd010-0xd01f]
+Mar 13 05:09:09 devbox1 kernel: [    0.278214] pci 0000:00:02.0: reg 0x14: [mem 0xe0000000-0xe0ffffff pref]
+Mar 13 05:09:09 devbox1 kernel: [    0.279079] pci 0000:00:02.0: reg 0x18: [mem 0xf0000000-0xf01fffff]
+Mar 13 05:09:09 devbox1 kernel: [    0.281113] pci 0000:00:02.0: Video device with shadowed ROM at [mem 0x000c0000-0x000dffff]
+Mar 13 05:09:09 devbox1 kernel: [    0.281948] pci 0000:00:03.0: [8086:100e] type 00 class 0x020000
+Mar 13 05:09:09 devbox1 kernel: [    0.282596] pci 0000:00:03.0: reg 0x10: [mem 0xf0200000-0xf021ffff]
+Mar 13 05:09:09 devbox1 kernel: [    0.283427] pci 0000:00:03.0: reg 0x18: [io  0xd020-0xd027]
+Mar 13 05:09:09 devbox1 kernel: [    0.285852] pci 0000:00:04.0: [80ee:cafe] type 00 class 0x088000
+Mar 13 05:09:09 devbox1 kernel: [    0.286476] pci 0000:00:04.0: reg 0x10: [io  0xd040-0xd05f]
+Mar 13 05:09:09 devbox1 kernel: [    0.287052] pci 0000:00:04.0: reg 0x14: [mem 0xf0400000-0xf07fffff]
+Mar 13 05:09:09 devbox1 kernel: [    0.287647] pci 0000:00:04.0: reg 0x18: [mem 0xf0800000-0xf0803fff pref]
+Mar 13 05:09:09 devbox1 kernel: [    0.290404] pci 0000:00:05.0: [8086:2415] type 00 class 0x040100
+Mar 13 05:09:09 devbox1 kernel: [    0.290971] pci 0000:00:05.0: reg 0x10: [io  0xd100-0xd1ff]
+Mar 13 05:09:09 devbox1 kernel: [    0.291328] pci 0000:00:05.0: reg 0x14: [io  0xd200-0xd23f]
+Mar 13 05:09:09 devbox1 kernel: [    0.292839] pci 0000:00:06.0: [106b:003f] type 00 class 0x0c0310
+Mar 13 05:09:09 devbox1 kernel: [    0.293827] pci 0000:00:06.0: reg 0x10: [mem 0xf0804000-0xf0804fff]
+Mar 13 05:09:09 devbox1 kernel: [    0.296801] pci 0000:00:07.0: [8086:7113] type 00 class 0x068000
+Mar 13 05:09:09 devbox1 kernel: [    0.297650] pci 0000:00:07.0: quirk: [io  0x4000-0x403f] claimed by PIIX4 ACPI
+Mar 13 05:09:09 devbox1 systemd[1]: grub-initrd-fallback.service: Deactivated successfully.
+Mar 13 05:09:09 devbox1 systemd[1]: Finished GRUB failed boot detection.
+Mar 13 05:09:09 devbox1 kernel: [    0.298064] pci 0000:00:07.0: quirk: [io  0x4100-0x410f] claimed by PIIX4 SMB
+Mar 13 05:09:09 devbox1 kernel: [    0.300050] pci 0000:00:0b.0: [8086:265c] type 00 class 0x0c0320
+Mar 13 05:09:09 devbox1 kernel: [    0.300716] pci 0000:00:0b.0: reg 0x10: [mem 0xf0805000-0xf0805fff]
+Mar 13 05:09:09 devbox1 kernel: [    0.303707] pci 0000:00:0d.0: [8086:2829] type 00 class 0x010601
+Mar 13 05:09:09 devbox1 kernel: [    0.304337] pci 0000:00:0d.0: reg 0x10: [io  0xd240-0xd247]
+Mar 13 05:09:09 devbox1 kernel: [    0.304913] pci 0000:00:0d.0: reg 0x14: [io  0xd248-0xd24b]
+Mar 13 05:09:09 devbox1 kernel: [    0.305526] pci 0000:00:0d.0: reg 0x18: [io  0xd250-0xd257]
+Mar 13 05:09:09 devbox1 kernel: [    0.306096] pci 0000:00:0d.0: reg 0x1c: [io  0xd258-0xd25b]
+Mar 13 05:09:09 devbox1 kernel: [    0.306663] pci 0000:00:0d.0: reg 0x20: [io  0xd260-0xd26f]
+Mar 13 05:09:09 devbox1 kernel: [    0.307229] pci 0000:00:0d.0: reg 0x24: [mem 0xf0806000-0xf0807fff]
+Mar 13 05:09:09 devbox1 kernel: [    0.317497] ACPI: PCI: Interrupt link LNKA configured for IRQ 11
+Mar 13 05:09:09 devbox1 kernel: [    0.318190] ACPI: PCI: Interrupt link LNKB configured for IRQ 10
+Mar 13 05:09:09 devbox1 kernel: [    0.318606] ACPI: PCI: Interrupt link LNKC configured for IRQ 9
+Mar 13 05:09:09 devbox1 kernel: [    0.319018] ACPI: PCI: Interrupt link LNKD configured for IRQ 11
+Mar 13 05:09:09 devbox1 kernel: [    0.319589] iommu: Default domain type: Translated 
+Mar 13 05:09:09 devbox1 kernel: [    0.319849] iommu: DMA domain TLB invalidation policy: lazy mode 
+Mar 13 05:09:09 devbox1 kernel: [    0.320344] SCSI subsystem initialized
+Mar 13 05:09:09 devbox1 kernel: [    0.320640] libata version 3.00 loaded.
+Mar 13 05:09:09 devbox1 kernel: [    0.320690] pci 0000:00:02.0: vgaarb: setting as boot VGA device
+Mar 13 05:09:09 devbox1 kernel: [    0.320977] pci 0000:00:02.0: vgaarb: VGA device added: decodes=io+mem,owns=io+mem,locks=none
+Mar 13 05:09:09 devbox1 kernel: [    0.321264] pci 0000:00:02.0: vgaarb: bridge control possible
+Mar 13 05:09:09 devbox1 kernel: [    0.321264] vgaarb: loaded
+Mar 13 05:09:09 devbox1 kernel: [    0.321264] ACPI: bus type USB registered
+Mar 13 05:09:09 devbox1 kernel: [    0.321264] usbcore: registered new interface driver usbfs
+Mar 13 05:09:09 devbox1 kernel: [    0.321264] usbcore: registered new interface driver hub
+Mar 13 05:09:09 devbox1 kernel: [    0.321264] usbcore: registered new device driver usb
+Mar 13 05:09:09 devbox1 kernel: [    0.321264] pps_core: LinuxPPS API ver. 1 registered
+Mar 13 05:09:09 devbox1 kernel: [    0.321264] pps_core: Software ver. 5.3.6 - Copyright 2005-2007 Rodolfo Giometti <giometti@linux.it>
+Mar 13 05:09:09 devbox1 kernel: [    0.321264] PTP clock support registered
+Mar 13 05:09:09 devbox1 kernel: [    0.321264] EDAC MC: Ver: 3.0.0
+Mar 13 05:09:09 devbox1 kernel: [    0.321750] NetLabel: Initializing
+Mar 13 05:09:09 devbox1 kernel: [    0.321959] NetLabel:  domain hash size = 128
+Mar 13 05:09:09 devbox1 kernel: [    0.322191] NetLabel:  protocols = UNLABELED CIPSOv4 CALIPSO
+Mar 13 05:09:09 devbox1 kernel: [    0.322483] NetLabel:  unlabeled traffic allowed by default
+Mar 13 05:09:09 devbox1 kernel: [    0.322783] PCI: Using ACPI for IRQ routing
+Mar 13 05:09:09 devbox1 kernel: [    0.323012] PCI: pci_cache_line_size set to 64 bytes
+Mar 13 05:09:09 devbox1 kernel: [    0.325436] e820: reserve RAM buffer [mem 0x0009fc00-0x0009ffff]
+Mar 13 05:09:09 devbox1 kernel: [    0.325440] e820: reserve RAM buffer [mem 0x3fff0000-0x3fffffff]
+Mar 13 05:09:09 devbox1 kernel: [    0.326562] clocksource: Switched to clocksource kvm-clock
+Mar 13 05:09:09 devbox1 kernel: [    0.336128] VFS: Disk quotas dquot_6.6.0
+Mar 13 05:09:09 devbox1 kernel: [    0.336128] VFS: Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+Mar 13 05:09:09 devbox1 kernel: [    0.336128] AppArmor: AppArmor Filesystem Enabled
+Mar 13 05:09:09 devbox1 kernel: [    0.336128] pnp: PnP ACPI init
+Mar 13 05:09:09 devbox1 kernel: [    0.339159] pnp: PnP ACPI: found 2 devices
+Mar 13 05:09:09 devbox1 kernel: [    0.349326] clocksource: acpi_pm: mask: 0xffffff max_cycles: 0xffffff, max_idle_ns: 2085701024 ns
+Mar 13 05:09:09 devbox1 kernel: [    0.349816] NET: Registered PF_INET protocol family
+Mar 13 05:09:09 devbox1 kernel: [    0.350095] IP idents hash table entries: 16384 (order: 5, 131072 bytes, linear)
+Mar 13 05:09:09 devbox1 kernel: [    0.351109] tcp_listen_portaddr_hash hash table entries: 512 (order: 1, 8192 bytes, linear)
+Mar 13 05:09:09 devbox1 kernel: [    0.351547] Table-perturb hash table entries: 65536 (order: 6, 262144 bytes, linear)
+Mar 13 05:09:09 devbox1 kernel: [    0.351946] TCP established hash table entries: 8192 (order: 4, 65536 bytes, linear)
+Mar 13 05:09:09 devbox1 kernel: [    0.352353] TCP bind hash table entries: 8192 (order: 5, 131072 bytes, linear)
+Mar 13 05:09:09 devbox1 kernel: [    0.352737] TCP: Hash tables configured (established 8192 bind 8192)
+Mar 13 05:09:09 devbox1 kernel: [    0.353072] MPTCP token hash table entries: 1024 (order: 2, 24576 bytes, linear)
+Mar 13 05:09:09 devbox1 kernel: [    0.353320] UDP hash table entries: 512 (order: 2, 16384 bytes, linear)
+Mar 13 05:09:09 devbox1 kernel: [    0.353320] UDP-Lite hash table entries: 512 (order: 2, 16384 bytes, linear)
+Mar 13 05:09:09 devbox1 kernel: [    0.353320] NET: Registered PF_UNIX/PF_LOCAL protocol family
+Mar 13 05:09:09 devbox1 kernel: [    0.353320] NET: Registered PF_XDP protocol family
+Mar 13 05:09:09 devbox1 kernel: [    0.353320] pci_bus 0000:00: resource 4 [io  0x0000-0x0cf7 window]
+Mar 13 05:09:09 devbox1 kernel: [    0.353320] pci_bus 0000:00: resource 5 [io  0x0d00-0xffff window]
+Mar 13 05:09:09 devbox1 kernel: [    0.353320] pci_bus 0000:00: resource 6 [mem 0x000a0000-0x000bffff window]
+Mar 13 05:09:09 devbox1 kernel: [    0.353320] pci_bus 0000:00: resource 7 [mem 0x40000000-0xfdffffff window]
+Mar 13 05:09:09 devbox1 kernel: [    0.356182] pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+Mar 13 05:09:09 devbox1 kernel: [    0.356597] pci 0000:00:01.0: Activating ISA DMA hang workarounds
+Mar 13 05:09:09 devbox1 kernel: [    0.360257] PCI: CLS 0 bytes, default 64
+Mar 13 05:09:09 devbox1 kernel: [    0.360534] Trying to unpack rootfs image as initramfs...
+Mar 13 05:09:09 devbox1 kernel: [    0.379574] clocksource: tsc: mask: 0xffffffffffffffff max_cycles: 0x2e02c314322, max_idle_ns: 440795292111 ns
+Mar 13 05:09:09 devbox1 kernel: [    0.380133] clocksource: Switched to clocksource tsc
+Mar 13 05:09:09 devbox1 kernel: [    0.380515] platform rtc_cmos: registered platform RTC device (no PNP device found)
+Mar 13 05:09:09 devbox1 kernel: [    0.381274] Initialise system trusted keyrings
+Mar 13 05:09:09 devbox1 kernel: [    0.381558] Key type blacklist registered
+Mar 13 05:09:09 devbox1 kernel: [    0.381845] workingset: timestamp_bits=36 max_order=18 bucket_order=0
+Mar 13 05:09:09 devbox1 kernel: [    0.383177] zbud: loaded
+Mar 13 05:09:09 devbox1 kernel: [    0.383177] squashfs: version 4.0 (2009/01/31) Phillip Lougher
+Mar 13 05:09:09 devbox1 kernel: [    0.383177] fuse: init (API version 7.34)
+Mar 13 05:09:09 devbox1 kernel: [    0.383177] integrity: Platform Keyring initialized
+Mar 13 05:09:09 devbox1 kernel: [    0.390739] Key type asymmetric registered
+Mar 13 05:09:09 devbox1 kernel: [    0.390739] Asymmetric key parser 'x509' registered
+Mar 13 05:09:09 devbox1 kernel: [    0.390739] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 243)
+Mar 13 05:09:09 devbox1 kernel: [    0.390739] io scheduler mq-deadline registered
+Mar 13 05:09:09 devbox1 kernel: [    0.390739] shpchp: Standard Hot Plug PCI Controller Driver version: 0.4
+Mar 13 05:09:09 devbox1 kernel: [    0.394829] ACPI: AC: AC Adapter [AC] (on-line)
+Mar 13 05:09:09 devbox1 kernel: [    0.395156] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+Mar 13 05:09:09 devbox1 kernel: [    0.395590] ACPI: button: Power Button [PWRF]
+Mar 13 05:09:09 devbox1 kernel: [    0.395916] input: Sleep Button as /devices/LNXSYSTM:00/LNXSLPBN:00/input/input1
+Mar 13 05:09:09 devbox1 kernel: [    0.396346] ACPI: button: Sleep Button [SLPF]
+Mar 13 05:09:09 devbox1 kernel: [    0.396813] Serial: 8250/16550 driver, 32 ports, IRQ sharing enabled
+Mar 13 05:09:09 devbox1 kernel: [    0.398423] Linux agpgart interface v0.103
+Mar 13 05:09:09 devbox1 kernel: [    0.402598] loop: module loaded
+Mar 13 05:09:09 devbox1 kernel: [    0.403055] ata_piix 0000:00:01.1: version 2.13
+Mar 13 05:09:09 devbox1 kernel: [    0.405692] scsi host0: ata_piix
+Mar 13 05:09:09 devbox1 kernel: [    0.423411] scsi host1: ata_piix
+Mar 13 05:09:09 devbox1 kernel: [    0.423773] ata1: PATA max UDMA/33 cmd 0x1f0 ctl 0x3f6 bmdma 0xd000 irq 14
+Mar 13 05:09:09 devbox1 kernel: [    0.424178] ata2: PATA max UDMA/33 cmd 0x170 ctl 0x376 bmdma 0xd008 irq 15
+Mar 13 05:09:09 devbox1 kernel: [    0.425011] tun: Universal TUN/TAP device driver, 1.6
+Mar 13 05:09:09 devbox1 kernel: [    0.425343] PPP generic driver version 2.4.2
+Mar 13 05:09:09 devbox1 kernel: [    0.425665] VFIO - User Level meta-driver version: 0.3
+Mar 13 05:09:09 devbox1 kernel: [    0.426086] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+Mar 13 05:09:09 devbox1 kernel: [    0.426417] ehci-pci: EHCI PCI platform driver
+Mar 13 05:09:09 devbox1 kernel: [    0.427491] ehci-pci 0000:00:0b.0: EHCI Host Controller
+Mar 13 05:09:09 devbox1 kernel: [    0.427759] ehci-pci 0000:00:0b.0: new USB bus registered, assigned bus number 1
+Mar 13 05:09:09 devbox1 kernel: [    0.428361] ehci-pci 0000:00:0b.0: irq 19, io mem 0xf0805000
+Mar 13 05:09:09 devbox1 kernel: [    0.441387] ehci-pci 0000:00:0b.0: USB 2.0 started, EHCI 1.00
+Mar 13 05:09:09 devbox1 kernel: [    0.441736] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002, bcdDevice= 5.15
+Mar 13 05:09:09 devbox1 kernel: [    0.442176] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Mar 13 05:09:09 devbox1 kernel: [    0.442603] usb usb1: Product: EHCI Host Controller
+Mar 13 05:09:09 devbox1 kernel: [    0.442852] usb usb1: Manufacturer: Linux 5.15.0-67-generic ehci_hcd
+Mar 13 05:09:09 devbox1 kernel: [    0.443174] usb usb1: SerialNumber: 0000:00:0b.0
+Mar 13 05:09:09 devbox1 kernel: [    0.444258] hub 1-0:1.0: USB hub found
+Mar 13 05:09:09 devbox1 kernel: [    0.447200] hub 1-0:1.0: 12 ports detected
+Mar 13 05:09:09 devbox1 kernel: [    0.447859] ehci-platform: EHCI generic platform driver
+Mar 13 05:09:09 devbox1 kernel: [    0.448207] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+Mar 13 05:09:09 devbox1 kernel: [    0.448612] ohci-pci: OHCI PCI platform driver
+Mar 13 05:09:09 devbox1 kernel: [    0.449856] ohci-pci 0000:00:06.0: OHCI PCI host controller
+Mar 13 05:09:09 devbox1 kernel: [    0.450228] ohci-pci 0000:00:06.0: new USB bus registered, assigned bus number 2
+Mar 13 05:09:09 devbox1 kernel: [    0.450728] ohci-pci 0000:00:06.0: irq 22, io mem 0xf0804000
+Mar 13 05:09:09 devbox1 kernel: [    0.514905] usb usb2: New USB device found, idVendor=1d6b, idProduct=0001, bcdDevice= 5.15
+Mar 13 05:09:09 devbox1 kernel: [    0.515431] usb usb2: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+Mar 13 05:09:09 devbox1 kernel: [    0.515959] usb usb2: Product: OHCI PCI host controller
+Mar 13 05:09:09 devbox1 kernel: [    0.516246] usb usb2: Manufacturer: Linux 5.15.0-67-generic ohci_hcd
+Mar 13 05:09:09 devbox1 kernel: [    0.516580] usb usb2: SerialNumber: 0000:00:06.0
+Mar 13 05:09:09 devbox1 kernel: [    0.516947] hub 2-0:1.0: USB hub found
+Mar 13 05:09:09 devbox1 kernel: [    0.521461] hub 2-0:1.0: 12 ports detected
+Mar 13 05:09:09 devbox1 kernel: [    0.522117] ohci-platform: OHCI generic platform driver
+Mar 13 05:09:09 devbox1 kernel: [    0.522391] uhci_hcd: USB Universal Host Controller Interface driver
+Mar 13 05:09:09 devbox1 kernel: [    0.522793] i8042: PNP: PS/2 Controller [PNP0303:PS2K,PNP0f03:PS2M] at 0x60,0x64 irq 1,12
+Mar 13 05:09:09 devbox1 kernel: [    0.523805] serio: i8042 KBD port at 0x60,0x64 irq 1
+Mar 13 05:09:09 devbox1 kernel: [    0.524150] serio: i8042 AUX port at 0x60,0x64 irq 12
+Mar 13 05:09:09 devbox1 kernel: [    0.524511] mousedev: PS/2 mouse device common for all mice
+Mar 13 05:09:09 devbox1 kernel: [    0.525051] input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input2
+Mar 13 05:09:09 devbox1 kernel: [    0.525963] rtc_cmos rtc_cmos: registered as rtc0
+Mar 13 05:09:09 devbox1 kernel: [    0.526309] rtc_cmos rtc_cmos: setting system clock to 2023-03-13T05:08:58 UTC (1678684138)
+Mar 13 05:09:09 devbox1 kernel: [    0.526787] rtc_cmos rtc_cmos: alarms up to one day, 114 bytes nvram
+Mar 13 05:09:09 devbox1 kernel: [    0.527084] i2c_dev: i2c /dev entries driver
+Mar 13 05:09:09 devbox1 kernel: [    0.527374] device-mapper: core: CONFIG_IMA_DISABLE_HTABLE is disabled. Duplicate IMA measurements will not be recorded in the IMA log.
+Mar 13 05:09:09 devbox1 kernel: [    0.527926] device-mapper: uevent: version 1.0.3
+Mar 13 05:09:09 devbox1 kernel: [    0.530209] device-mapper: ioctl: 4.45.0-ioctl (2021-03-22) initialised: dm-devel@redhat.com
+Mar 13 05:09:09 devbox1 kernel: [    0.530728] platform eisa.0: Probing EISA bus 0
+Mar 13 05:09:09 devbox1 kernel: [    0.530967] platform eisa.0: EISA: Cannot allocate resource for mainboard
+Mar 13 05:09:09 devbox1 kernel: [    0.531414] platform eisa.0: Cannot allocate resource for EISA slot 1
+Mar 13 05:09:09 devbox1 kernel: [    0.531738] platform eisa.0: Cannot allocate resource for EISA slot 2
+Mar 13 05:09:09 devbox1 kernel: [    0.532033] platform eisa.0: Cannot allocate resource for EISA slot 3
+Mar 13 05:09:09 devbox1 kernel: [    0.532329] platform eisa.0: Cannot allocate resource for EISA slot 4
+Mar 13 05:09:09 devbox1 kernel: [    0.532652] platform eisa.0: Cannot allocate resource for EISA slot 5
+Mar 13 05:09:09 devbox1 kernel: [    0.532976] platform eisa.0: Cannot allocate resource for EISA slot 6
+Mar 13 05:09:09 devbox1 kernel: [    0.533271] platform eisa.0: Cannot allocate resource for EISA slot 7
+Mar 13 05:09:09 devbox1 kernel: [    0.533566] platform eisa.0: Cannot allocate resource for EISA slot 8
+Mar 13 05:09:09 devbox1 kernel: [    0.533890] platform eisa.0: EISA: Detected 0 cards
+Mar 13 05:09:09 devbox1 kernel: [    0.534153] intel_pstate: CPU model not supported
+Mar 13 05:09:09 devbox1 kernel: [    0.538592] ledtrig-cpu: registered to indicate activity on CPUs
+Mar 13 05:09:09 devbox1 kernel: [    0.539074] drop_monitor: Initializing network drop monitor service
+Mar 13 05:09:09 devbox1 kernel: [    0.539559] NET: Registered PF_INET6 protocol family
+Mar 13 05:09:09 devbox1 kernel: [    0.595658] ata2.00: ATAPI: VBOX CD-ROM, 1.0, max UDMA/133
+Mar 13 05:09:09 devbox1 kernel: [    0.596964] scsi 1:0:0:0: CD-ROM            VBOX     CD-ROM           1.0  PQ: 0 ANSI: 5
+Mar 13 05:09:09 devbox1 kernel: [    0.619635] sr 1:0:0:0: [sr0] scsi3-mmc drive: 32x/32x xa/form2 tray
+Mar 13 05:09:09 devbox1 kernel: [    0.619951] cdrom: Uniform CD-ROM driver Revision: 3.20
+Mar 13 05:09:09 devbox1 kernel: [    0.634239] sr 1:0:0:0: Attached scsi CD-ROM sr0
+Mar 13 05:09:09 devbox1 kernel: [    0.634471] sr 1:0:0:0: Attached scsi generic sg0 type 5
+Mar 13 05:09:09 devbox1 kernel: [    0.993648] usb 2-1: new full-speed USB device number 2 using ohci-pci
+Mar 13 05:09:09 devbox1 kernel: [    1.110876] Freeing initrd memory: 107764K
+Mar 13 05:09:09 devbox1 kernel: [    1.126850] Segment Routing with IPv6
+Mar 13 05:09:09 devbox1 kernel: [    1.127114] In-situ OAM (IOAM) with IPv6
+Mar 13 05:09:09 devbox1 kernel: [    1.127379] NET: Registered PF_PACKET protocol family
+Mar 13 05:09:09 devbox1 kernel: [    1.127717] Key type dns_resolver registered
+Mar 13 05:09:09 devbox1 kernel: [    1.128186] IPI shorthand broadcast: enabled
+Mar 13 05:09:09 devbox1 kernel: [    1.128212] sched_clock: Marking stable (1078020855, 46191403)->(1123195463, 1016795)
+Mar 13 05:09:09 devbox1 kernel: [    1.128904] registered taskstats version 1
+Mar 13 05:09:09 devbox1 kernel: [    1.129154] Loading compiled-in X.509 certificates
+Mar 13 05:09:09 devbox1 kernel: [    1.129881] Loaded X.509 cert 'Build time autogenerated kernel key: 4919d01b97f8f8ece5362917619ef42f1d265e85'
+Mar 13 05:09:09 devbox1 kernel: [    1.130834] Loaded X.509 cert 'Canonical Ltd. Live Patch Signing: 14df34d1a87cf37625abec039ef2bf521249b969'
+Mar 13 05:09:09 devbox1 kernel: [    1.131729] Loaded X.509 cert 'Canonical Ltd. Kernel Module Signing: 88f752e560a1e0737e31163a466ad7b70a850c19'
+Mar 13 05:09:09 devbox1 kernel: [    1.132234] blacklist: Loading compiled-in revocation X.509 certificates
+Mar 13 05:09:09 devbox1 kernel: [    1.132601] Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing: 61482aa2830d0ab2ad5af10b7250da9033ddcef0'
+Mar 13 05:09:09 devbox1 kernel: [    1.133099] Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2017): 242ade75ac4a15e50d50c84b0d45ff3eae707a03'
+Mar 13 05:09:09 devbox1 kernel: [    1.133614] Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (ESM 2018): 365188c1d374d6b07c3c8f240f8ef722433d6a8b'
+Mar 13 05:09:09 devbox1 kernel: [    1.134139] Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2019): c0746fd6c5da3ae827864651ad66ae47fe24b3e8'
+Mar 13 05:09:09 devbox1 kernel: [    1.134687] Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2021 v1): a8d54bbb3825cfb94fa13c9f8a594a195c107b8d'
+Mar 13 05:09:09 devbox1 kernel: [    1.135209] Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2021 v2): 4cf046892d6fd3c9a5b03f98d845f90851dc6a8c'
+Mar 13 05:09:09 devbox1 kernel: [    1.135733] Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (2021 v3): 100437bb6de6e469b581e61cd66bce3ef4ed53af'
+Mar 13 05:09:09 devbox1 kernel: [    1.136260] Loaded X.509 cert 'Canonical Ltd. Secure Boot Signing (Ubuntu Core 2019): c1d57b8f6b743f23ee41f4f7ee292f06eecadfb9'
+Mar 13 05:09:09 devbox1 kernel: [    1.136829] zswap: loaded using pool lzo/zbud
+Mar 13 05:09:09 devbox1 kernel: [    1.137180] Key type .fscrypt registered
+Mar 13 05:09:09 devbox1 kernel: [    1.137447] Key type fscrypt-provisioning registered
+Mar 13 05:09:09 devbox1 kernel: [    1.140857] Key type encrypted registered
+Mar 13 05:09:09 devbox1 kernel: [    1.141105] AppArmor: AppArmor sha1 policy hashing enabled
+Mar 13 05:09:09 devbox1 kernel: [    1.141393] ima: No TPM chip found, activating TPM-bypass!
+Mar 13 05:09:09 devbox1 kernel: [    1.141678] Loading compiled-in module X.509 certificates
+Mar 13 05:09:09 devbox1 kernel: [    1.142404] Loaded X.509 cert 'Build time autogenerated kernel key: 4919d01b97f8f8ece5362917619ef42f1d265e85'
+Mar 13 05:09:09 devbox1 kernel: [    1.142924] ima: Allocated hash algorithm: sha1
+Mar 13 05:09:09 devbox1 kernel: [    1.143180] ima: No architecture policies found
+Mar 13 05:09:09 devbox1 kernel: [    1.143438] evm: Initialising EVM extended attributes:
+Mar 13 05:09:09 devbox1 kernel: [    1.143708] evm: security.selinux
+Mar 13 05:09:09 devbox1 kernel: [    1.143920] evm: security.SMACK64
+Mar 13 05:09:09 devbox1 kernel: [    1.144132] evm: security.SMACK64EXEC
+Mar 13 05:09:09 devbox1 kernel: [    1.144355] evm: security.SMACK64TRANSMUTE
+Mar 13 05:09:09 devbox1 kernel: [    1.144592] evm: security.SMACK64MMAP
+Mar 13 05:09:09 devbox1 kernel: [    1.144814] evm: security.apparmor
+Mar 13 05:09:09 devbox1 kernel: [    1.145029] evm: security.ima
+Mar 13 05:09:09 devbox1 kernel: [    1.145229] evm: security.capability
+Mar 13 05:09:09 devbox1 kernel: [    1.145449] evm: HMAC attrs: 0x1
+Mar 13 05:09:09 devbox1 kernel: [    1.145924] PM:   Magic number: 15:549:112
+Mar 13 05:09:09 devbox1 kernel: [    1.146305] RAS: Correctable Errors collector initialized.
+Mar 13 05:09:09 devbox1 kernel: [    1.148103] Freeing unused decrypted memory: 2036K
+Mar 13 05:09:09 devbox1 kernel: [    1.148816] Freeing unused kernel image (initmem) memory: 3240K
+Mar 13 05:09:09 devbox1 kernel: [    1.157415] Write protecting the kernel read-only data: 30720k
+Mar 13 05:09:09 devbox1 kernel: [    1.158175] Freeing unused kernel image (text/rodata gap) memory: 2036K
+Mar 13 05:09:09 devbox1 kernel: [    1.158788] Freeing unused kernel image (rodata/data gap) memory: 1468K
+Mar 13 05:09:09 devbox1 kernel: [    1.213301] x86/mm: Checked W+X mappings: passed, no W+X pages found.
+Mar 13 05:09:09 devbox1 kernel: [    1.213626] x86/mm: Checking user space page tables
+Mar 13 05:09:09 devbox1 kernel: [    1.266742] x86/mm: Checked W+X mappings: passed, no W+X pages found.
+Mar 13 05:09:09 devbox1 kernel: [    1.267159] Run /init as init process
+Mar 13 05:09:09 devbox1 kernel: [    1.267373]   with arguments:
+Mar 13 05:09:09 devbox1 kernel: [    1.267374]     /init
+Mar 13 05:09:09 devbox1 kernel: [    1.267375]   with environment:
+Mar 13 05:09:09 devbox1 kernel: [    1.267376]     HOME=/
+Mar 13 05:09:09 devbox1 kernel: [    1.267377]     TERM=linux
+Mar 13 05:09:09 devbox1 kernel: [    1.267378]     BOOT_IMAGE=/vmlinuz-5.15.0-67-generic
+Mar 13 05:09:09 devbox1 kernel: [    1.395466] usb 2-1: New USB device found, idVendor=80ee, idProduct=0021, bcdDevice= 1.00
+Mar 13 05:09:09 devbox1 kernel: [    1.395899] usb 2-1: New USB device strings: Mfr=1, Product=3, SerialNumber=0
+Mar 13 05:09:09 devbox1 kernel: [    1.396232] usb 2-1: Product: USB Tablet
+Mar 13 05:09:09 devbox1 kernel: [    1.396452] usb 2-1: Manufacturer: VirtualBox
+Mar 13 05:09:09 devbox1 kernel: [    1.468447] e1000: Intel(R) PRO/1000 Network Driver
+Mar 13 05:09:09 devbox1 kernel: [    1.468719] e1000: Copyright (c) 1999-2006 Intel Corporation.
+Mar 13 05:09:09 devbox1 kernel: [    1.474187] piix4_smbus 0000:00:07.0: SMBus Host Controller at 0x4100, revision 0
+Mar 13 05:09:09 devbox1 kernel: [    1.478266] ahci 0000:00:0d.0: version 3.0
+Mar 13 05:09:09 devbox1 kernel: [    1.479469] ahci 0000:00:0d.0: SSS flag set, parallel bus scan disabled
+Mar 13 05:09:09 devbox1 kernel: [    1.479912] ahci 0000:00:0d.0: AHCI 0001.0100 32 slots 1 ports 3 Gbps 0x1 impl SATA mode
+Mar 13 05:09:09 devbox1 kernel: [    1.480340] ahci 0000:00:0d.0: flags: 64bit ncq stag only ccc 
+Mar 13 05:09:09 devbox1 kernel: [    1.498809] scsi host2: ahci
+Mar 13 05:09:09 devbox1 kernel: [    1.499099] ata3: SATA max UDMA/133 abar m8192@0xf0806000 port 0xf0806100 irq 21
+Mar 13 05:09:09 devbox1 kernel: [    1.516506] cryptd: max_cpu_qlen set to 1000
+Mar 13 05:09:09 devbox1 kernel: [    1.566984] ACPI: video: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+Mar 13 05:09:09 devbox1 kernel: [    1.567485] input: Video Bus as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A03:00/LNXVIDEO:00/input/input5
+Mar 13 05:09:09 devbox1 kernel: [    1.693036] hid: raw HID events driver (C) Jiri Kosina
+Mar 13 05:09:09 devbox1 kernel: [    1.698127] input: ImExPS/2 Generic Explorer Mouse as /devices/platform/i8042/serio1/input/input4
+Mar 13 05:09:09 devbox1 kernel: [    1.821401] ata3: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+Mar 13 05:09:09 devbox1 kernel: [    1.825815] ata3.00: ATA-6: VBOX HARDDISK, 1.0, max UDMA/133
+Mar 13 05:09:09 devbox1 kernel: [    1.826093] ata3.00: 20971520 sectors, multi 128: LBA48 NCQ (depth 32)
+Mar 13 05:09:09 devbox1 kernel: [    1.830700] ata3.00: configured for UDMA/133
+Mar 13 05:09:09 devbox1 kernel: [    1.831032] scsi 2:0:0:0: Direct-Access     ATA      VBOX HARDDISK    1.0  PQ: 0 ANSI: 5
+Mar 13 05:09:09 devbox1 kernel: [    1.831622] sd 2:0:0:0: [sda] 20971520 512-byte logical blocks: (10.7 GB/10.0 GiB)
+Mar 13 05:09:09 devbox1 kernel: [    1.832018] sd 2:0:0:0: [sda] Write Protect is off
+Mar 13 05:09:09 devbox1 kernel: [    1.832265] sd 2:0:0:0: [sda] Mode Sense: 00 3a 00 00
+Mar 13 05:09:09 devbox1 kernel: [    1.832276] sd 2:0:0:0: Attached scsi generic sg1 type 0
+Mar 13 05:09:09 devbox1 kernel: [    1.832562] sd 2:0:0:0: [sda] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
+Mar 13 05:09:09 devbox1 kernel: [    1.886344]  sda: sda1 sda2 sda3
+Mar 13 05:09:09 devbox1 kernel: [    1.908752] sd 2:0:0:0: [sda] Attached SCSI disk
+Mar 13 05:09:09 devbox1 kernel: [    1.923121] usbcore: registered new interface driver usbhid
+Mar 13 05:09:09 devbox1 kernel: [    1.923401] usbhid: USB HID core driver
+Mar 13 05:09:09 devbox1 kernel: [    1.925653] AVX2 version of gcm_enc/dec engaged.
+Mar 13 05:09:09 devbox1 kernel: [    1.926012] AES CTR mode by8 optimization enabled
+Mar 13 05:09:09 devbox1 kernel: [    1.938180] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb2/2-1/2-1:1.0/0003:80EE:0021.0001/input/input6
+Mar 13 05:09:09 devbox1 kernel: [    1.939470] hid-generic 0003:80EE:0021.0001: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+Mar 13 05:09:09 devbox1 kernel: [    1.972374] vmwgfx 0000:00:02.0: vgaarb: deactivate vga console
+Mar 13 05:09:09 devbox1 kernel: [    1.974315] Console: switching to colour dummy device 80x25
+Mar 13 05:09:09 devbox1 kernel: [    1.976621] [TTM] Zone  kernel: Available graphics memory: 496404 KiB
+Mar 13 05:09:09 devbox1 kernel: [    1.976706] vmwgfx 0000:00:02.0: [drm] FIFO at 0x00000000f0000000 size is 2048 kiB
+Mar 13 05:09:09 devbox1 kernel: [    1.976733] vmwgfx 0000:00:02.0: [drm] VRAM at 0x00000000e0000000 size is 16384 kiB
+Mar 13 05:09:09 devbox1 kernel: [    1.976744] vmwgfx 0000:00:02.0: [drm] Running on SVGA version 2.
+Mar 13 05:09:09 devbox1 kernel: [    1.976750] vmwgfx 0000:00:02.0: [drm] DMA map mode: Caching DMA mappings.
+Mar 13 05:09:09 devbox1 kernel: [    1.976822] vmwgfx 0000:00:02.0: [drm] Legacy memory limits: VRAM = 16384 kB, FIFO = 2048 kB, surface = 507904 kB
+Mar 13 05:09:09 devbox1 kernel: [    1.976827] vmwgfx 0000:00:02.0: [drm] MOB limits: max mob size = 0 kB, max mob pages = 0
+Mar 13 05:09:09 devbox1 kernel: [    1.976832] vmwgfx 0000:00:02.0: [drm] Capabilities: cursor, cursor bypass 2, alpha cursor, 3D, extended fifo, pitchlock, irq mask, gmr, traces, gmr2, screen object 2, 
+Mar 13 05:09:09 devbox1 kernel: [    1.976837] vmwgfx 0000:00:02.0: [drm] Max GMR ids is 8192
+Mar 13 05:09:09 devbox1 kernel: [    1.976854] vmwgfx 0000:00:02.0: [drm] Max number of GMR pages is 1048576
+Mar 13 05:09:09 devbox1 kernel: [    1.976857] vmwgfx 0000:00:02.0: [drm] Maximum display memory size is 16384 kiB
+Mar 13 05:09:09 devbox1 kernel: [    1.985553] vmwgfx 0000:00:02.0: [drm] Screen Object display unit initialized
+Mar 13 05:09:09 devbox1 kernel: [    1.985894] vmwgfx 0000:00:02.0: [drm] Fifo max 0x00200000 min 0x00001000 cap 0x00000355
+Mar 13 05:09:09 devbox1 kernel: [    1.985908] vmwgfx 0000:00:02.0: [drm] Available shader model: Legacy.
+Mar 13 05:09:09 devbox1 kernel: [    1.985915] [drm:vmw_host_printf [vmwgfx]] *ERROR* Failed to send host log message.
+Mar 13 05:09:09 devbox1 kernel: [    1.987419] fbcon: svgadrmfb (fb0) is primary device
+Mar 13 05:09:09 devbox1 kernel: [    1.988109] Console: switching to colour frame buffer device 100x37
+Mar 13 05:09:09 devbox1 kernel: [    1.990945] [drm] Initialized vmwgfx 2.19.0 20210722 for 0000:00:02.0 on minor 0
+Mar 13 05:09:09 devbox1 kernel: [    2.014578] e1000 0000:00:03.0 eth0: (PCI:33MHz:32-bit) 08:00:27:96:94:fe
+Mar 13 05:09:09 devbox1 kernel: [    2.014606] e1000 0000:00:03.0 eth0: Intel(R) PRO/1000 Network Connection
+Mar 13 05:09:09 devbox1 kernel: [    2.016446] e1000 0000:00:03.0 enp0s3: renamed from eth0
+Mar 13 05:09:09 devbox1 kernel: [    2.521663] raid6: avx2x4   gen() 39097 MB/s
+Mar 13 05:09:09 devbox1 kernel: [    2.601569] raid6: avx2x4   xor() 17299 MB/s
+Mar 13 05:09:09 devbox1 kernel: [    2.682465] raid6: avx2x2   gen() 38373 MB/s
+Mar 13 05:09:09 devbox1 kernel: [    2.762653] raid6: avx2x2   xor() 21942 MB/s
+Mar 13 05:09:09 devbox1 kernel: [    2.842577] raid6: avx2x1   gen() 23975 MB/s
+Mar 13 05:09:09 devbox1 kernel: [    2.933249] raid6: avx2x1   xor() 18703 MB/s
+Mar 13 05:09:09 devbox1 kernel: [    3.018374] raid6: sse2x4   gen() 17558 MB/s
+Mar 13 05:09:09 devbox1 kernel: [    3.102051] raid6: sse2x4   xor() 10350 MB/s
+Mar 13 05:09:09 devbox1 kernel: [    3.194065] raid6: sse2x2   gen() 19669 MB/s
+Mar 13 05:09:09 devbox1 kernel: [    3.273713] raid6: sse2x2   xor()  9882 MB/s
+Mar 13 05:09:09 devbox1 kernel: [    3.354487] raid6: sse2x1   gen() 14209 MB/s
+Mar 13 05:09:09 devbox1 kernel: [    3.434137] raid6: sse2x1   xor()  6718 MB/s
+Mar 13 05:09:09 devbox1 kernel: [    3.434579] raid6: using algorithm avx2x4 gen() 39097 MB/s
+Mar 13 05:09:09 devbox1 kernel: [    3.434913] raid6: .... xor() 17299 MB/s, rmw enabled
+Mar 13 05:09:09 devbox1 kernel: [    3.435245] raid6: using avx2x2 recovery algorithm
+Mar 13 05:09:09 devbox1 kernel: [    3.437135] xor: automatically using best checksumming function   avx       
+Mar 13 05:09:09 devbox1 kernel: [    3.438702] async_tx: api initialized (async)
+Mar 13 05:09:09 devbox1 kernel: [    3.538869] Btrfs loaded, crc32c=crc32c-intel, zoned=yes, fsverity=yes
+Mar 13 05:09:09 devbox1 kernel: [    3.958216] EXT4-fs (dm-0): mounted filesystem with ordered data mode. Opts: (null). Quota mode: none.
+Mar 13 05:09:09 devbox1 kernel: [    4.294685] systemd[1]: Inserted module 'autofs4'
+Mar 13 05:09:09 devbox1 kernel: [    4.342353] systemd[1]: systemd 249.11-0ubuntu3.7 running in system mode (+PAM +AUDIT +SELINUX +APPARMOR +IMA +SMACK +SECCOMP +GCRYPT +GNUTLS +OPENSSL +ACL +BLKID +CURL +ELFUTILS +FIDO2 +IDN2 -IDN +IPTC +KMOD +LIBCRYPTSETUP +LIBFDISK +PCRE2 -PWQUALITY -P11KIT -QRENCODE +BZIP2 +LZ4 +XZ +ZLIB +ZSTD -XKBCOMMON +UTMP +SYSVINIT default-hierarchy=unified)
+Mar 13 05:09:09 devbox1 kernel: [    4.346051] systemd[1]: Detected virtualization oracle.
+Mar 13 05:09:09 devbox1 kernel: [    4.346997] systemd[1]: Detected architecture x86-64.
+Mar 13 05:09:09 devbox1 kernel: [    4.352208] systemd[1]: Hostname set to <devbox1>.
+Mar 13 05:09:09 devbox1 kernel: [    4.995525] systemd[1]: Queued start job for default target Graphical Interface.
+Mar 13 05:09:09 devbox1 kernel: [    4.998389] systemd[1]: Created slice Slice /system/modprobe.
+Mar 13 05:09:09 devbox1 kernel: [    5.000662] systemd[1]: Created slice Slice /system/systemd-fsck.
+Mar 13 05:09:09 devbox1 kernel: [    5.002669] systemd[1]: Created slice User and Session Slice.
+Mar 13 05:09:09 devbox1 kernel: [    5.004252] systemd[1]: Started Forward Password Requests to Wall Directory Watch.
+Mar 13 05:09:09 devbox1 kernel: [    5.005976] systemd[1]: Set up automount Arbitrary Executable File Formats File System Automount Point.
+Mar 13 05:09:09 devbox1 kernel: [    5.008269] systemd[1]: Reached target Slice Units.
+Mar 13 05:09:09 devbox1 kernel: [    5.009635] systemd[1]: Reached target Local Verity Protected Volumes.
+Mar 13 05:09:09 devbox1 kernel: [    5.010950] systemd[1]: Listening on Device-mapper event daemon FIFOs.
+Mar 13 05:09:09 devbox1 kernel: [    5.012272] systemd[1]: Listening on LVM2 poll daemon socket.
+Mar 13 05:09:09 devbox1 kernel: [    5.013535] systemd[1]: Listening on multipathd control socket.
+Mar 13 05:09:09 devbox1 kernel: [    5.014658] systemd[1]: Listening on Syslog Socket.
+Mar 13 05:09:09 devbox1 kernel: [    5.015760] systemd[1]: Listening on fsck to fsckd communication Socket.
+Mar 13 05:09:09 devbox1 kernel: [    5.016858] systemd[1]: Listening on initctl Compatibility Named Pipe.
+Mar 13 05:09:09 devbox1 kernel: [    5.018124] systemd[1]: Listening on Journal Audit Socket.
+Mar 13 05:09:09 devbox1 kernel: [    5.019212] systemd[1]: Listening on Journal Socket (/dev/log).
+Mar 13 05:09:09 devbox1 kernel: [    5.020227] systemd[1]: Listening on Journal Socket.
+Mar 13 05:09:09 devbox1 kernel: [    5.021304] systemd[1]: Listening on Network Service Netlink Socket.
+Mar 13 05:09:09 devbox1 dbus-daemon[646]: [system] AppArmor D-Bus mediation is enabled
+Mar 13 05:09:09 devbox1 kernel: [    5.022355] systemd[1]: Listening on udev Control Socket.
+Mar 13 05:09:09 devbox1 kernel: [    5.023502] systemd[1]: Listening on udev Kernel Socket.
+Mar 13 05:09:09 devbox1 kernel: [    5.025344] systemd[1]: Mounting Huge Pages File System...
+Mar 13 05:09:09 devbox1 kernel: [    5.029220] systemd[1]: Mounting POSIX Message Queue File System...
+Mar 13 05:09:09 devbox1 kernel: [    5.032609] systemd[1]: Mounting Kernel Debug File System...
+Mar 13 05:09:09 devbox1 kernel: [    5.035863] systemd[1]: Mounting Kernel Trace File System...
+Mar 13 05:09:09 devbox1 kernel: [    5.039780] systemd[1]: Starting Journal Service...
+Mar 13 05:09:09 devbox1 kernel: [    5.050135] systemd[1]: Starting Set the console keyboard layout...
+Mar 13 05:09:09 devbox1 kernel: [    5.052753] systemd[1]: Starting Create List of Static Device Nodes...
+Mar 13 05:09:09 devbox1 kernel: [    5.057254] systemd[1]: Starting Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling...
+Mar 13 05:09:09 devbox1 kernel: [    5.065822] systemd[1]: Condition check resulted in LXD - agent being skipped.
+Mar 13 05:09:09 devbox1 kernel: [    5.067613] systemd[1]: Starting Load Kernel Module chromeos_pstore...
+Mar 13 05:09:09 devbox1 kernel: [    5.069603] systemd[1]: Starting Load Kernel Module configfs...
+Mar 13 05:09:09 devbox1 kernel: [    5.072827] systemd[1]: Starting Load Kernel Module drm...
+Mar 13 05:09:09 devbox1 kernel: [    5.076823] systemd[1]: Starting Load Kernel Module efi_pstore...
+Mar 13 05:09:09 devbox1 kernel: [    5.081547] systemd[1]: Starting Load Kernel Module fuse...
+Mar 13 05:09:09 devbox1 kernel: [    5.087196] systemd[1]: Starting Load Kernel Module pstore_blk...
+Mar 13 05:09:09 devbox1 kernel: [    5.092091] systemd[1]: Starting Load Kernel Module pstore_zone...
+Mar 13 05:09:09 devbox1 kernel: [    5.101084] systemd[1]: Starting Load Kernel Module ramoops...
+Mar 13 05:09:09 devbox1 kernel: [    5.102300] systemd[1]: Condition check resulted in OpenVSwitch configuration for cleanup being skipped.
+Mar 13 05:09:09 devbox1 kernel: [    5.103480] systemd[1]: Condition check resulted in File System Check on Root Device being skipped.
+Mar 13 05:09:09 devbox1 kernel: [    5.109207] systemd[1]: Starting Load Kernel Modules...
+Mar 13 05:09:09 devbox1 kernel: [    5.116349] systemd[1]: Starting Remount Root and Kernel File Systems...
+Mar 13 05:09:09 devbox1 kernel: [    5.153222] systemd[1]: Starting Coldplug All udev Devices...
+Mar 13 05:09:09 devbox1 kernel: [    5.156661] systemd[1]: Mounted Huge Pages File System.
+Mar 13 05:09:09 devbox1 kernel: [    5.157728] systemd[1]: Mounted POSIX Message Queue File System.
+Mar 13 05:09:09 devbox1 kernel: [    5.158843] systemd[1]: Mounted Kernel Debug File System.
+Mar 13 05:09:09 devbox1 kernel: [    5.159866] systemd[1]: Mounted Kernel Trace File System.
+Mar 13 05:09:09 devbox1 kernel: [    5.163574] EXT4-fs (dm-0): re-mounted. Opts: (null). Quota mode: none.
+Mar 13 05:09:09 devbox1 kernel: [    5.167753] systemd[1]: Finished Create List of Static Device Nodes.
+Mar 13 05:09:09 devbox1 kernel: [    5.170402] systemd[1]: modprobe@chromeos_pstore.service: Deactivated successfully.
+Mar 13 05:09:09 devbox1 kernel: [    5.179161] systemd[1]: Finished Load Kernel Module chromeos_pstore.
+Mar 13 05:09:09 devbox1 kernel: [    5.180487] systemd[1]: modprobe@configfs.service: Deactivated successfully.
+Mar 13 05:09:09 devbox1 kernel: [    5.181129] systemd[1]: Finished Load Kernel Module configfs.
+Mar 13 05:09:09 devbox1 kernel: [    5.182263] systemd[1]: modprobe@drm.service: Deactivated successfully.
+Mar 13 05:09:09 devbox1 kernel: [    5.182939] systemd[1]: Finished Load Kernel Module drm.
+Mar 13 05:09:09 devbox1 kernel: [    5.184270] systemd[1]: Finished Remount Root and Kernel File Systems.
+Mar 13 05:09:09 devbox1 kernel: [    5.187602] IPMI message handler: version 39.2
+Mar 13 05:09:09 devbox1 kernel: [    5.188860] systemd[1]: Finished Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+Mar 13 05:09:09 devbox1 kernel: [    5.202728] systemd[1]: Activating swap /swap.img...
+Mar 13 05:09:09 devbox1 kernel: [    5.205343] systemd[1]: Mounting Kernel Configuration File System...
+Mar 13 05:09:09 devbox1 kernel: [    5.209250] systemd[1]: Starting Device-Mapper Multipath Device Controller...
+Mar 13 05:09:09 devbox1 kernel: [    5.211318] systemd[1]: Starting Load/Save Random Seed...
+Mar 13 05:09:09 devbox1 kernel: [    5.214601] ipmi device interface
+Mar 13 05:09:09 devbox1 kernel: [    5.215201] systemd[1]: Starting Create System Users...
+Mar 13 05:09:09 devbox1 kernel: [    5.216985] systemd[1]: Mounted Kernel Configuration File System.
+Mar 13 05:09:09 devbox1 kernel: [    5.234291] Adding 1444860k swap on /swap.img.  Priority:-2 extents:3 across:1821692k FS
+Mar 13 05:09:09 devbox1 kernel: [    5.235126] systemd[1]: Activated swap /swap.img.
+Mar 13 05:09:09 devbox1 kernel: [    5.236179] systemd[1]: Reached target Swaps.
+Mar 13 05:09:09 devbox1 kernel: [    5.242955] systemd[1]: Finished Load Kernel Modules.
+Mar 13 05:09:09 devbox1 kernel: [    5.246157] systemd[1]: Starting Apply Kernel Variables...
+Mar 13 05:09:09 devbox1 kernel: [    5.247273] alua: device handler registered
+Mar 13 05:09:09 devbox1 kernel: [    5.251148] emc: device handler registered
+Mar 13 05:09:09 devbox1 kernel: [    5.253502] systemd[1]: Finished Load/Save Random Seed.
+Mar 13 05:09:09 devbox1 kernel: [    5.254581] systemd[1]: Condition check resulted in First Boot Complete being skipped.
+Mar 13 05:09:09 devbox1 kernel: [    5.258127] rdac: device handler registered
+Mar 13 05:09:09 devbox1 kernel: [    5.267254] systemd[1]: Finished Create System Users.
+Mar 13 05:09:09 devbox1 kernel: [    5.269235] systemd[1]: Starting Create Static Device Nodes in /dev...
+Mar 13 05:09:09 devbox1 kernel: [    5.287343] systemd[1]: Started Journal Service.
+Mar 13 05:09:09 devbox1 kernel: [    5.367118] systemd-journald[367]: Received client request to flush runtime journal.
+Mar 13 05:09:09 devbox1 kernel: [    5.603309] loop0: detected capacity change from 0 to 163736
+Mar 13 05:09:09 devbox1 kernel: [    5.603847] loop1: detected capacity change from 0 to 229272
+Mar 13 05:09:09 devbox1 kernel: [    5.604736] loop2: detected capacity change from 0 to 129600
+Mar 13 05:09:09 devbox1 kernel: [    5.605380] loop3: detected capacity change from 0 to 102048
+Mar 13 05:09:09 devbox1 kernel: [    5.605864] loop4: detected capacity change from 0 to 129584
+Mar 13 05:09:09 devbox1 kernel: [    5.606492] loop5: detected capacity change from 0 to 102072
+Mar 13 05:09:09 devbox1 kernel: [    6.059789] vboxguest: host-version: 6.1.38r153438 0x8000000f
+Mar 13 05:09:09 devbox1 kernel: [    6.076193] vbg_heartbeat_init: Setting up heartbeat to trigger every 2000 milliseconds
+Mar 13 05:09:09 devbox1 kernel: [    6.076283] input: VirtualBox mouse integration as /devices/pci0000:00/0000:00:04.0/input/input7
+Mar 13 05:09:09 devbox1 kernel: [    6.102917] vboxguest: misc device minor 123, IRQ 20, I/O port d040, MMIO at 0x00000000f0400000 (size 0x0000000000400000)
+Mar 13 05:09:09 devbox1 kernel: [    6.305241] RAPL PMU: API unit is 2^-32 Joules, 0 fixed counters, 10737418240 ms ovfl timer
+Mar 13 05:09:09 devbox1 kernel: [    6.438827] snd_intel8x0 0000:00:05.0: allow list rate for 1028:0177 is 48000
+Mar 13 05:09:09 devbox1 kernel: [    6.798368] EXT4-fs (sda2): mounted filesystem with ordered data mode. Opts: (null). Quota mode: none.
+Mar 13 05:09:09 devbox1 kernel: [    6.899062] audit: type=1400 audit(1678684144.868:2): apparmor="STATUS" operation="profile_load" profile="unconfined" name="lsb_release" pid=575 comm="apparmor_parser"
+Mar 13 05:09:09 devbox1 kernel: [    6.904196] audit: type=1400 audit(1678684144.868:3): apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe" pid=578 comm="apparmor_parser"
+Mar 13 05:09:09 devbox1 kernel: [    6.904200] audit: type=1400 audit(1678684144.868:4): apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe//kmod" pid=578 comm="apparmor_parser"
+Mar 13 05:09:09 devbox1 kernel: [    6.945987] audit: type=1400 audit(1678684144.904:5): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=583 comm="apparmor_parser"
+Mar 13 05:09:09 devbox1 kernel: [    6.945992] audit: type=1400 audit(1678684144.904:6): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-helper" pid=583 comm="apparmor_parser"
+Mar 13 05:09:09 devbox1 kernel: [    6.945994] audit: type=1400 audit(1678684144.904:7): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=583 comm="apparmor_parser"
+Mar 13 05:09:09 devbox1 kernel: [    6.945996] audit: type=1400 audit(1678684144.904:8): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/{,usr/}sbin/dhclient" pid=583 comm="apparmor_parser"
+Mar 13 05:09:09 devbox1 kernel: [    6.972555] audit: type=1400 audit(1678684144.940:9): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/man" pid=592 comm="apparmor_parser"
+Mar 13 05:09:09 devbox1 kernel: [    6.972560] audit: type=1400 audit(1678684144.940:10): apparmor="STATUS" operation="profile_load" profile="unconfined" name="man_filter" pid=592 comm="apparmor_parser"
+Mar 13 05:09:09 devbox1 kernel: [    6.972561] audit: type=1400 audit(1678684144.940:11): apparmor="STATUS" operation="profile_load" profile="unconfined" name="man_groff" pid=592 comm="apparmor_parser"
+Mar 13 05:09:09 devbox1 kernel: [    8.129070] e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Mar 13 05:09:09 devbox1 kernel: [    8.129664] IPv6: ADDRCONF(NETDEV_CHANGE): enp0s3: link becomes ready
+Mar 13 05:09:09 devbox1 dbus-daemon[646]: [system] Activating systemd to hand-off: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.0' (uid=101 pid=632 comm="/lib/systemd/systemd-networkd " label="unconfined")
+Mar 13 05:09:09 devbox1 dbus-daemon[646]: [system] Successfully activated service 'org.freedesktop.systemd1'
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Hostname Service...
+Mar 13 05:09:09 devbox1 polkitd[653]: started daemon version 0.105 using authority implementation `local' version `0.105'
+Mar 13 05:09:09 devbox1 systemd[1]: Started Authorization Manager.
+Mar 13 05:09:09 devbox1 systemd[1]: Starting Modem Manager...
+Mar 13 05:09:09 devbox1 apport[644]:    ...done.
+Mar 13 05:09:09 devbox1 systemd[1]: Started LSB: automatic crash report generation.
+Mar 13 05:09:09 devbox1 udisksd[661]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+Mar 13 05:09:09 devbox1 udisksd[661]: Failed to load the 'mdraid' libblockdev plugin
+Mar 13 05:09:09 devbox1 systemd[1]: Started OpenBSD Secure Shell server.
+Mar 13 05:09:09 devbox1 snapd[657]: AppArmor status: apparmor is enabled and all features are available
+Mar 13 05:09:09 devbox1 ModemManager[701]: <info>  ModemManager (version 1.18.6) starting in system bus...
+Mar 13 05:09:09 devbox1 systemd[1]: logrotate.service: Deactivated successfully.
+Mar 13 05:09:09 devbox1 systemd[1]: Finished Rotate log files.
+Mar 13 05:09:09 devbox1 systemd[1]: Started User Login Management.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Unattended Upgrades Shutdown.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Modem Manager.
+Mar 13 05:09:09 devbox1 networkd-dispatcher[652]: No valid path found for iwconfig
+Mar 13 05:09:09 devbox1 networkd-dispatcher[652]: No valid path found for iw
+Mar 13 05:09:09 devbox1 dbus-daemon[646]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Mar 13 05:09:09 devbox1 systemd[1]: Started Hostname Service.
+Mar 13 05:09:09 devbox1 systemd[1]: Started Dispatcher daemon for systemd-networkd.
+Mar 13 05:09:09 devbox1 systemd-timesyncd[580]: Network configuration changed, trying to establish connection.
+Mar 13 05:09:10 devbox1 systemd[1]: Started Disk Manager.
+Mar 13 05:09:10 devbox1 udisksd[661]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Mar 13 05:09:10 devbox1 systemd-hostnamed[698]: Hostname set to <devbox1> (static)
+Mar 13 05:09:10 devbox1 systemd-timesyncd[580]: Network configuration changed, trying to establish connection.
+Mar 13 05:09:12 devbox1 systemd[1]: tmp-snap.rootfs_RlHVaX.mount: Deactivated successfully.
+Mar 13 05:09:12 devbox1 snapd[657]: overlord.go:268: Acquiring state lock file
+Mar 13 05:09:12 devbox1 snapd[657]: overlord.go:273: Acquired state lock file
+Mar 13 05:09:12 devbox1 snapd[657]: daemon.go:247: started snapd/2.58.2 (series 16; classic) ubuntu/22.04 (amd64) linux/5.15.0-67-generic.
+Mar 13 05:09:12 devbox1 ModemManager[701]: <info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:03.0': not supported by any plugin
+Mar 13 05:09:12 devbox1 kernel: [   14.483596] loop6: detected capacity change from 0 to 8
+Mar 13 05:09:12 devbox1 systemd[1]: tmp-syscheck\x2dmountpoint\x2d377345518.mount: Deactivated successfully.
+Mar 13 05:09:12 devbox1 snapd[657]: daemon.go:340: adjusting startup timeout by 45s (pessimistic estimate of 30s plus 5s per snap)
+Mar 13 05:09:12 devbox1 snapd[657]: backends.go:58: AppArmor status: apparmor is enabled and all features are available
+Mar 13 05:09:12 devbox1 systemd[1]: Started Snap Daemon.
+Mar 13 05:09:12 devbox1 systemd[1]: Starting Wait until snapd is fully seeded...
+Mar 13 05:09:12 devbox1 dbus-daemon[646]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.12' (uid=0 pid=657 comm="/usr/lib/snapd/snapd " label="unconfined")
+Mar 13 05:09:12 devbox1 systemd[1]: Starting Time & Date Service...
+Mar 13 05:09:12 devbox1 dbus-daemon[646]: [system] Successfully activated service 'org.freedesktop.timedate1'
+Mar 13 05:09:12 devbox1 systemd[1]: Started Time & Date Service.
+Mar 13 05:09:12 devbox1 systemd[1]: Finished Wait until snapd is fully seeded.
+Mar 13 05:09:12 devbox1 systemd[1]: Starting Apply the settings specified in cloud-config...
+Mar 13 05:09:12 devbox1 systemd[1]: Condition check resulted in Auto import assertions from block devices being skipped.
+Mar 13 05:09:13 devbox1 lxd.activate[656]: => Starting LXD activation
+Mar 13 05:09:13 devbox1 lxd.activate[656]: ==> Loading snap configuration
+Mar 13 05:09:13 devbox1 lxd.activate[656]: ==> Checking for socket activation support
+Mar 13 05:09:13 devbox1 lxd.activate[656]: ==> Setting LXD socket ownership
+Mar 13 05:09:13 devbox1 lxd.activate[656]: ==> Setting LXD user socket ownership
+Mar 13 05:09:13 devbox1 lxd.activate[656]: ==> LXD never started on this system, no need to start it now
+Mar 13 05:09:13 devbox1 systemd[1]: snap.lxd.activate.service: Deactivated successfully.
+Mar 13 05:09:13 devbox1 systemd[1]: Finished Service for snap application lxd.activate.
+Mar 13 05:09:13 devbox1 systemd[1]: snap.lxd.activate.service: Consumed 1.545s CPU time.
+Mar 13 05:09:13 devbox1 cloud-init[839]: Cloud-init v. 22.2-0ubuntu1~22.04.3 running 'modules:config' at Mon, 13 Mar 2023 05:09:13 +0000. Up 15.42 seconds.
+Mar 13 05:09:13 devbox1 systemd[1]: Finished Apply the settings specified in cloud-config.
+Mar 13 05:09:13 devbox1 systemd[1]: Condition check resulted in Ubuntu Advantage GCP Auto Attach Daemon being skipped.
+Mar 13 05:09:13 devbox1 systemd[1]: Reached target Multi-User System.
+Mar 13 05:09:13 devbox1 systemd[1]: Reached target Graphical Interface.
+Mar 13 05:09:13 devbox1 systemd[1]: Starting Execute cloud user/final scripts...
+Mar 13 05:09:13 devbox1 systemd[1]: Starting Record Runlevel Change in UTMP...
+Mar 13 05:09:13 devbox1 systemd[1]: systemd-update-utmp-runlevel.service: Deactivated successfully.
+Mar 13 05:09:13 devbox1 systemd[1]: Finished Record Runlevel Change in UTMP.
+Mar 13 05:09:13 devbox1 systemd[1]: dmesg.service: Deactivated successfully.
+Mar 13 05:09:14 devbox1 cloud-init[866]: Cloud-init v. 22.2-0ubuntu1~22.04.3 running 'modules:final' at Mon, 13 Mar 2023 05:09:13 +0000. Up 15.96 seconds.
+Mar 13 05:09:14 devbox1 cloud-init[866]: Cloud-init v. 22.2-0ubuntu1~22.04.3 finished at Mon, 13 Mar 2023 05:09:14 +0000. Datasource DataSourceNone.  Up 16.13 seconds
+Mar 13 05:09:14 devbox1 cloud-init[866]: 2023-03-13 05:09:14,158 - cc_final_message.py[WARNING]: Used fallback datasource
+Mar 13 05:09:14 devbox1 systemd[1]: Finished Execute cloud user/final scripts.
+Mar 13 05:09:14 devbox1 systemd[1]: Reached target Cloud-init target.
+Mar 13 05:09:14 devbox1 systemd[1]: Startup finished in 4.186s (kernel) + 12.006s (userspace) = 16.192s.
+Mar 13 05:09:28 devbox1 systemd-timesyncd[580]: Network configuration changed, trying to establish connection.
+Mar 13 05:09:29 devbox1 systemd-timesyncd[580]: Initial synchronization to time server [2620:2d:4000:1::3f]:123 (ntp.ubuntu.com).
+Mar 13 05:09:29 devbox1 systemd-resolved[634]: Clock change detected. Flushing caches.
+Mar 13 05:09:29 devbox1 systemd[1]: Starting Online ext4 Metadata Check for All Filesystems...
+Mar 13 05:09:29 devbox1 systemd[1]: e2scrub_all.service: Deactivated successfully.
+Mar 13 05:09:29 devbox1 systemd[1]: Finished Online ext4 Metadata Check for All Filesystems.
+Mar 13 05:09:36 devbox1 systemd[1]: systemd-fsckd.service: Deactivated successfully.
+Mar 13 05:09:41 devbox1 systemd[1]: systemd-hostnamed.service: Deactivated successfully.
+Mar 13 05:09:46 devbox1 systemd[1]: systemd-timedated.service: Deactivated successfully.
+Mar 13 05:14:13 devbox1 systemd[1]: Starting Download data for packages that failed at package install time...
+Mar 13 05:14:13 devbox1 systemd[1]: update-notifier-download.service: Deactivated successfully.
+Mar 13 05:14:13 devbox1 systemd[1]: Finished Download data for packages that failed at package install time.
+Mar 13 05:14:16 devbox1 dbus-daemon[646]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.12' (uid=0 pid=657 comm="/usr/lib/snapd/snapd " label="unconfined")
+Mar 13 05:14:16 devbox1 systemd[1]: Starting Time & Date Service...
+Mar 13 05:14:16 devbox1 dbus-daemon[646]: [system] Successfully activated service 'org.freedesktop.timedate1'
+Mar 13 05:14:16 devbox1 systemd[1]: Started Time & Date Service.
+Mar 13 05:14:17 devbox1 snapd[657]: storehelpers.go:769: cannot refresh: snap has no updates available: "lxd", "snapd"
+Mar 13 05:14:19 devbox1 systemd[1]: Reloading.
+Mar 13 05:14:20 devbox1 systemd[1]: Mounting Mount unit for core20, revision 1828...
+Mar 13 05:14:20 devbox1 systemd[1]: Mounted Mount unit for core20, revision 1828.
+Mar 13 05:14:20 devbox1 kernel: [  321.334097] loop6: detected capacity change from 0 to 129608
+Mar 13 05:14:21 devbox1 systemd[1]: snap-core20-1778.mount: Deactivated successfully.
+Mar 13 05:14:21 devbox1 systemd[1]: Reloading.
+Mar 13 05:14:21 devbox1 systemd[1]: Starting Discard unused blocks on filesystems from /etc/fstab...
+Mar 13 05:14:22 devbox1 systemd[1]: fstrim.service: Deactivated successfully.
+Mar 13 05:14:22 devbox1 systemd[1]: Finished Discard unused blocks on filesystems from /etc/fstab.
+Mar 13 05:14:22 devbox1 snapd[657]: storehelpers.go:769: cannot refresh snap "core20": snap has no updates available
+Mar 13 05:14:46 devbox1 systemd[1]: systemd-timedated.service: Deactivated successfully.
+Mar 13 05:17:01 devbox1 CRON[1015]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 13 05:24:08 devbox1 systemd[1]: Starting Cleanup of Temporary Directories...
+Mar 13 05:24:08 devbox1 systemd[1]: systemd-tmpfiles-clean.service: Deactivated successfully.
+Mar 13 05:24:08 devbox1 systemd[1]: Finished Cleanup of Temporary Directories.
+Mar 13 05:26:43 devbox1 systemd[1]: Starting Ubuntu Advantage Timer for running repeated jobs...
+Mar 13 05:26:44 devbox1 systemd[1]: ua-timer.service: Deactivated successfully.
+Mar 13 05:26:44 devbox1 systemd[1]: Finished Ubuntu Advantage Timer for running repeated jobs.
+Mar 13 05:37:38 devbox1 systemd[1]: Starting Daily apt upgrade and clean activities...
+Mar 13 05:37:42 devbox1 systemd[1]: apt-daily-upgrade.service: Deactivated successfully.
+Mar 13 05:37:42 devbox1 systemd[1]: Finished Daily apt upgrade and clean activities.
+Mar 13 05:37:42 devbox1 systemd[1]: apt-daily-upgrade.service: Consumed 4.073s CPU time.
+Mar 13 05:43:23 devbox1 systemd[1]: Created slice User Slice of UID 1000.
+Mar 13 05:43:23 devbox1 systemd[1]: Starting User Runtime Directory /run/user/1000...
+Mar 13 05:43:24 devbox1 systemd[1]: Finished User Runtime Directory /run/user/1000.
+Mar 13 05:43:24 devbox1 systemd[1]: Starting User Manager for UID 1000...
+Mar 13 05:43:24 devbox1 systemd[1221]: Queued start job for default target Main User Target.
+Mar 13 05:43:24 devbox1 systemd[1221]: Created slice User Application Slice.
+Mar 13 05:43:24 devbox1 systemd[1221]: Reached target Paths.
+Mar 13 05:43:24 devbox1 systemd[1221]: Reached target Timers.
+Mar 13 05:43:24 devbox1 systemd[1221]: Starting D-Bus User Message Bus Socket...
+Mar 13 05:43:24 devbox1 systemd[1221]: Listening on GnuPG network certificate management daemon.
+Mar 13 05:43:24 devbox1 systemd[1221]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Mar 13 05:43:24 devbox1 systemd[1221]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Mar 13 05:43:24 devbox1 systemd[1221]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Mar 13 05:43:24 devbox1 systemd[1221]: Listening on GnuPG cryptographic agent and passphrase cache.
+Mar 13 05:43:24 devbox1 systemd[1221]: Listening on debconf communication socket.
+Mar 13 05:43:24 devbox1 systemd[1221]: Listening on REST API socket for snapd user session agent.
+Mar 13 05:43:24 devbox1 systemd[1221]: Listening on D-Bus User Message Bus Socket.
+Mar 13 05:43:24 devbox1 systemd[1221]: Reached target Sockets.
+Mar 13 05:43:24 devbox1 systemd[1221]: Reached target Basic System.
+Mar 13 05:43:24 devbox1 systemd[1]: Started User Manager for UID 1000.
+Mar 13 05:43:24 devbox1 systemd[1]: Started Session 2 of User ademo11.
+Mar 13 05:43:24 devbox1 systemd[1221]: Reached target Main User Target.
+Mar 13 05:43:24 devbox1 systemd[1221]: Startup finished in 379ms.
+Mar 13 05:43:48 devbox1 systemd[1]: Started Session 4 of User ademo11.
+Mar 13 05:44:12 devbox1 systemd[1]: Started Session 5 of User ademo11.
+Mar 13 05:51:10 devbox1 kernel: [ 2531.452116] usb 2-1: USB disconnect, device number 2
+Mar 13 05:51:11 devbox1 kernel: [ 2532.075774] usb 2-1: new full-speed USB device number 3 using ohci-pci
+Mar 13 05:51:11 devbox1 kernel: [ 2532.160020] e1000: enp0s3 NIC Link is Down
+Mar 13 05:51:11 devbox1 kernel: [ 2532.160229] e1000 0000:00:03.0 enp0s3: Reset adapter
+Mar 13 05:51:11 devbox1 systemd-networkd[632]: enp0s3: Lost carrier
+Mar 13 05:51:11 devbox1 dbus-daemon[646]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.0' (uid=101 pid=632 comm="/lib/systemd/systemd-networkd " label="unconfined")
+Mar 13 05:51:11 devbox1 systemd-networkd[632]: enp0s3: DHCP lease lost
+Mar 13 05:51:11 devbox1 systemd-networkd[632]: enp0s3: DHCPv6 lease lost
+Mar 13 05:51:11 devbox1 systemd[1]: Starting Hostname Service...
+Mar 13 05:51:11 devbox1 systemd-timesyncd[580]: No network connectivity, watching for changes.
+Mar 13 05:51:11 devbox1 dbus-daemon[646]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Mar 13 05:51:11 devbox1 systemd[1]: Started Hostname Service.
+Mar 13 05:51:11 devbox1 systemd-hostnamed[1818]: Hostname set to <devbox1> (static)
+Mar 13 05:51:11 devbox1 kernel: [ 2532.403640] usb 2-1: New USB device found, idVendor=80ee, idProduct=0021, bcdDevice= 1.00
+Mar 13 05:51:11 devbox1 kernel: [ 2532.403654] usb 2-1: New USB device strings: Mfr=1, Product=3, SerialNumber=0
+Mar 13 05:51:11 devbox1 kernel: [ 2532.403661] usb 2-1: Product: USB Tablet
+Mar 13 05:51:11 devbox1 kernel: [ 2532.403667] usb 2-1: Manufacturer: VirtualBox
+Mar 13 05:51:11 devbox1 kernel: [ 2532.420028] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb2/2-1/2-1:1.0/0003:80EE:0021.0002/input/input8
+Mar 13 05:51:11 devbox1 kernel: [ 2532.420460] hid-generic 0003:80EE:0021.0002: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+Mar 13 05:51:13 devbox1 kernel: [ 2534.304612] e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Mar 13 05:51:13 devbox1 systemd-networkd[632]: enp0s3: Gained carrier
+Mar 13 05:51:13 devbox1 systemd-timesyncd[580]: Network configuration changed, trying to establish connection.
+Mar 13 05:51:13 devbox1 systemd-networkd[632]: enp0s3: DHCPv4 address 10.0.0.229/24 via 10.0.0.1
+Mar 13 05:51:13 devbox1 systemd-timesyncd[580]: Network configuration changed, trying to establish connection.
+Mar 13 17:20:15 devbox1 systemd-timesyncd[580]: Initial synchronization to time server 185.125.190.57:123 (ntp.ubuntu.com).
+Mar 13 17:20:15 devbox1 systemd-resolved[634]: Clock change detected. Flushing caches.
+Mar 13 17:20:15 devbox1 systemd[1]: Starting Daily apt upgrade and clean activities...
+Mar 13 17:20:15 devbox1 systemd[1]: Starting Refresh fwupd metadata and update motd...
+Mar 13 17:20:15 devbox1 systemd[1]: Starting Daily man-db regeneration...
+Mar 13 17:20:15 devbox1 systemd-networkd[632]: enp0s3: DHCPv6 address 2601:2c6:8381:ee10::7e83/128 (valid for 2d 13h 30min 51s, preferred for 2d 13h 30min 51s)
+Mar 13 17:20:15 devbox1 systemd[1]: fwupd-refresh.service: Main process exited, code=exited, status=1/FAILURE
+Mar 13 17:20:15 devbox1 systemd[1]: fwupd-refresh.service: Failed with result 'exit-code'.
+Mar 13 17:20:15 devbox1 systemd[1]: Failed to start Refresh fwupd metadata and update motd.
+Mar 13 17:20:15 devbox1 systemd[1]: man-db.service: Deactivated successfully.
+Mar 13 17:20:15 devbox1 systemd[1]: Finished Daily man-db regeneration.
+Mar 13 17:20:16 devbox1 systemd[1]: apt-daily-upgrade.service: Deactivated successfully.
+Mar 13 17:20:16 devbox1 systemd[1]: Finished Daily apt upgrade and clean activities.
+Mar 13 17:20:45 devbox1 systemd[1]: systemd-hostnamed.service: Deactivated successfully.
+Mar 13 17:21:15 devbox1 systemd[1]: Started Session 6 of User ademo11.
+Mar 13 17:36:25 devbox1 systemd[1]: Starting Message of the Day...
+Mar 13 17:36:27 devbox1 50-motd-news[2202]:  * Strictly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s
+Mar 13 17:36:27 devbox1 50-motd-news[2202]:    just raised the bar for easy, resilient and secure K8s cluster deployment.
+Mar 13 17:36:27 devbox1 50-motd-news[2202]:    https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+Mar 13 17:36:27 devbox1 systemd[1]: motd-news.service: Deactivated successfully.
+Mar 13 17:36:27 devbox1 systemd[1]: Finished Message of the Day.
+Mar 13 17:37:14 devbox1 systemd[1]: session-5.scope: Deactivated successfully.
+Mar 13 18:15:16 devbox1 systemd[1]: session-6.scope: Deactivated successfully.
+Mar 13 18:15:16 devbox1 systemd[1]: session-6.scope: Consumed 5.043s CPU time.
+Mar 13 18:17:01 devbox1 CRON[2694]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 13 19:17:01 devbox1 CRON[2712]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 13 19:42:49 devbox1 systemd[1]: Starting Refresh fwupd metadata and update motd...
+Mar 13 19:42:49 devbox1 systemd[1]: fwupd-refresh.service: Main process exited, code=exited, status=1/FAILURE
+Mar 13 19:42:49 devbox1 systemd[1]: fwupd-refresh.service: Failed with result 'exit-code'.
+Mar 13 19:42:49 devbox1 systemd[1]: Failed to start Refresh fwupd metadata and update motd.
+Mar 13 20:17:01 devbox1 CRON[2736]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 13 21:17:01 devbox1 CRON[2753]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 13 21:33:16 devbox1 snapd[657]: storehelpers.go:769: cannot refresh: snap has no updates available: "core20", "lxd", "snapd"
+Mar 13 21:33:16 devbox1 snapd[657]: autorefresh.go:551: auto-refresh: all snaps are up-to-date
+Mar 13 21:43:40 devbox1 systemd[1]: Starting Daily apt download activities...
+Mar 13 21:43:42 devbox1 dbus-daemon[646]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.26' (uid=0 pid=3018 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined")
+Mar 13 21:43:42 devbox1 systemd[1]: Starting PackageKit Daemon...
+Mar 13 21:43:42 devbox1 PackageKit: daemon start
+Mar 13 21:43:42 devbox1 dbus-daemon[646]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Mar 13 21:43:42 devbox1 systemd[1]: Started PackageKit Daemon.
+Mar 13 21:43:57 devbox1 systemd[1]: apt-daily.service: Deactivated successfully.
+Mar 13 21:43:57 devbox1 systemd[1]: Finished Daily apt download activities.
+Mar 13 21:43:57 devbox1 systemd[1]: apt-daily.service: Consumed 15.379s CPU time.
+Mar 13 22:17:01 devbox1 CRON[3183]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 13 22:58:35 devbox1 systemd[1]: Starting Ubuntu Advantage Timer for running repeated jobs...
+Mar 13 22:58:35 devbox1 systemd[1]: ua-timer.service: Deactivated successfully.
+Mar 13 22:58:35 devbox1 systemd[1]: Finished Ubuntu Advantage Timer for running repeated jobs.
+Mar 13 23:17:01 devbox1 CRON[3207]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 14 00:00:14 devbox1 systemd[1]: Starting Daily dpkg database backup service...
+Mar 14 00:00:14 devbox1 systemd[1]: Starting Rotate log files...
+Mar 14 00:00:14 devbox1 systemd[1]: logrotate.service: Deactivated successfully.
+Mar 14 00:00:14 devbox1 systemd[1]: Finished Rotate log files.
+Mar 14 00:00:14 devbox1 systemd[1]: dpkg-db-backup.service: Deactivated successfully.
+Mar 14 00:00:14 devbox1 systemd[1]: Finished Daily dpkg database backup service.
+Mar 14 00:17:02 devbox1 CRON[3299]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 14 01:17:01 devbox1 CRON[3319]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 14 02:01:33 devbox1 kernel: [33812.977949] usb 2-1: USB disconnect, device number 3
+Mar 14 02:01:34 devbox1 kernel: [33813.601318] usb 2-1: new full-speed USB device number 4 using ohci-pci
+Mar 14 02:01:34 devbox1 kernel: [33813.910360] usb 2-1: New USB device found, idVendor=80ee, idProduct=0021, bcdDevice= 1.00
+Mar 14 02:01:34 devbox1 kernel: [33813.910374] usb 2-1: New USB device strings: Mfr=1, Product=3, SerialNumber=0
+Mar 14 02:01:34 devbox1 kernel: [33813.910381] usb 2-1: Product: USB Tablet
+Mar 14 02:01:34 devbox1 kernel: [33813.910386] usb 2-1: Manufacturer: VirtualBox
+Mar 14 02:01:34 devbox1 kernel: [33813.928460] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb2/2-1/2-1:1.0/0003:80EE:0021.0003/input/input9
+Mar 14 02:01:34 devbox1 kernel: [33813.928910] hid-generic 0003:80EE:0021.0003: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+Mar 14 02:01:35 devbox1 kernel: [33814.297591] e1000: enp0s3 NIC Link is Down
+Mar 14 02:01:35 devbox1 systemd-networkd[632]: enp0s3: Lost carrier
+Mar 14 02:01:35 devbox1 systemd-networkd[632]: enp0s3: DHCP lease lost
+Mar 14 02:01:35 devbox1 systemd-networkd[632]: enp0s3: DHCPv6 lease lost
+Mar 14 02:01:35 devbox1 dbus-daemon[646]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.0' (uid=101 pid=632 comm="/lib/systemd/systemd-networkd " label="unconfined")
+Mar 14 02:01:35 devbox1 systemd-timesyncd[580]: No network connectivity, watching for changes.
+Mar 14 02:01:35 devbox1 systemd[1]: Starting Hostname Service...
+Mar 14 02:01:35 devbox1 dbus-daemon[646]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Mar 14 02:01:35 devbox1 systemd[1]: Started Hostname Service.
+Mar 14 02:01:35 devbox1 systemd-hostnamed[3340]: Hostname set to <devbox1> (static)
+Mar 14 02:01:37 devbox1 kernel: [33816.314077] e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Mar 14 02:01:37 devbox1 systemd-networkd[632]: enp0s3: Gained carrier
+Mar 14 02:01:37 devbox1 systemd-timesyncd[580]: Network configuration changed, trying to establish connection.
+Mar 14 02:01:37 devbox1 systemd-networkd[632]: enp0s3: DHCPv4 address 10.0.0.229/24 via 10.0.0.1
+Mar 14 02:01:37 devbox1 systemd-timesyncd[580]: Network configuration changed, trying to establish connection.
+Mar 14 14:22:41 devbox1 systemd-timesyncd[580]: Initial synchronization to time server 185.125.190.57:123 (ntp.ubuntu.com).
+Mar 14 14:22:41 devbox1 systemd-resolved[634]: Clock change detected. Flushing caches.
+Mar 14 14:22:41 devbox1 systemd[1]: Starting Daily apt upgrade and clean activities...
+Mar 14 14:22:41 devbox1 systemd[1]: Starting Refresh fwupd metadata and update motd...
+Mar 14 14:22:41 devbox1 systemd[1]: Starting Message of the Day...
+Mar 14 14:22:41 devbox1 systemd[1]: Starting Daily man-db regeneration...
+Mar 14 14:22:42 devbox1 systemd[1]: fwupd-refresh.service: Main process exited, code=exited, status=1/FAILURE
+Mar 14 14:22:42 devbox1 systemd[1]: fwupd-refresh.service: Failed with result 'exit-code'.
+Mar 14 14:22:42 devbox1 systemd[1]: Failed to start Refresh fwupd metadata and update motd.
+Mar 14 14:22:42 devbox1 systemd[1]: man-db.service: Deactivated successfully.
+Mar 14 14:22:42 devbox1 systemd[1]: Finished Daily man-db regeneration.
+Mar 14 14:22:42 devbox1 systemd-networkd[632]: enp0s3: DHCPv6 address 2601:2c6:8381:ee10::7e83/128 (valid for 2d 13h 30min 51s, preferred for 2d 13h 30min 51s)
+Mar 14 14:22:50 devbox1 50-motd-news[3508]:  * Strictly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s
+Mar 14 14:22:50 devbox1 50-motd-news[3508]:    just raised the bar for easy, resilient and secure K8s cluster deployment.
+Mar 14 14:22:50 devbox1 50-motd-news[3508]:    https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+Mar 14 14:22:50 devbox1 systemd[1]: motd-news.service: Deactivated successfully.
+Mar 14 14:22:50 devbox1 systemd[1]: Finished Message of the Day.
+Mar 14 14:22:56 devbox1 systemd[1]: apt-daily-upgrade.service: Deactivated successfully.
+Mar 14 14:22:56 devbox1 systemd[1]: Finished Daily apt upgrade and clean activities.
+Mar 14 14:22:56 devbox1 systemd[1]: apt-daily-upgrade.service: Consumed 12.674s CPU time.
+Mar 14 14:23:11 devbox1 systemd[1]: systemd-hostnamed.service: Deactivated successfully.
+Mar 14 14:23:24 devbox1 systemd[1]: Started Session 15 of User ademo11.
+Mar 14 15:17:01 devbox1 CRON[4884]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 14 16:17:01 devbox1 CRON[4919]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 14 16:50:44 devbox1 systemd[1]: Starting Daily apt download activities...
+Mar 14 16:51:00 devbox1 systemd[1]: apt-daily.service: Deactivated successfully.
+Mar 14 16:51:00 devbox1 systemd[1]: Finished Daily apt download activities.
+Mar 14 16:51:00 devbox1 systemd[1]: apt-daily.service: Consumed 14.135s CPU time.
+Mar 14 17:04:21 devbox1 snapd[657]: storehelpers.go:769: cannot refresh: snap has no updates available: "core20", "lxd", "snapd"
+Mar 14 17:04:21 devbox1 snapd[657]: autorefresh.go:551: auto-refresh: all snaps are up-to-date
+Mar 14 17:17:01 devbox1 CRON[5364]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 14 17:21:41 devbox1 systemd[1]: Starting Ubuntu Advantage Timer for running repeated jobs...
+Mar 14 17:21:41 devbox1 systemd[1]: ua-timer.service: Deactivated successfully.
+Mar 14 17:21:41 devbox1 systemd[1]: Finished Ubuntu Advantage Timer for running repeated jobs.
+Mar 14 18:17:01 devbox1 CRON[5614]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 14 19:17:01 devbox1 CRON[5650]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 14 20:09:20 devbox1 snapd[657]: storehelpers.go:769: cannot refresh: snap has no updates available: "core20", "lxd", "snapd"
+Mar 14 20:09:20 devbox1 snapd[657]: autorefresh.go:551: auto-refresh: all snaps are up-to-date
+Mar 14 20:16:49 devbox1 systemd[1]: Starting Daily apt download activities...
+Mar 14 20:16:50 devbox1 systemd[1]: apt-daily.service: Deactivated successfully.
+Mar 14 20:16:50 devbox1 systemd[1]: Finished Daily apt download activities.
+Mar 14 20:17:01 devbox1 CRON[5737]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 14 21:17:01 devbox1 CRON[5776]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 14 22:17:01 devbox1 CRON[5816]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 14 23:17:01 devbox1 CRON[5857]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 14 23:42:44 devbox1 systemd[1]: Starting Ubuntu Advantage Timer for running repeated jobs...
+Mar 14 23:42:44 devbox1 systemd[1]: ua-timer.service: Deactivated successfully.
+Mar 14 23:42:44 devbox1 systemd[1]: Finished Ubuntu Advantage Timer for running repeated jobs.
+Mar 14 23:54:02 devbox1 systemd[1]: Starting Refresh fwupd metadata and update motd...
+Mar 14 23:54:02 devbox1 systemd[1]: fwupd-refresh.service: Main process exited, code=exited, status=1/FAILURE
+Mar 14 23:54:02 devbox1 systemd[1]: fwupd-refresh.service: Failed with result 'exit-code'.
+Mar 14 23:54:02 devbox1 systemd[1]: Failed to start Refresh fwupd metadata and update motd.
+Mar 15 00:00:02 devbox1 systemd[1]: Starting Daily dpkg database backup service...
+Mar 15 00:00:02 devbox1 systemd[1]: Starting Rotate log files...
+Mar 15 00:00:02 devbox1 systemd[1]: logrotate.service: Deactivated successfully.
+Mar 15 00:00:02 devbox1 systemd[1]: Finished Rotate log files.
+Mar 15 00:00:02 devbox1 systemd[1]: dpkg-db-backup.service: Deactivated successfully.
+Mar 15 00:00:02 devbox1 systemd[1]: Finished Daily dpkg database backup service.
+Mar 15 00:17:01 devbox1 CRON[5986]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 15 00:27:45 devbox1 systemd[1]: Starting Message of the Day...
+Mar 15 00:27:49 devbox1 50-motd-news[6022]:  * Strictly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s
+Mar 15 00:27:49 devbox1 50-motd-news[6022]:    just raised the bar for easy, resilient and secure K8s cluster deployment.
+Mar 15 00:27:49 devbox1 50-motd-news[6022]:    https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+Mar 15 00:27:49 devbox1 systemd[1]: motd-news.service: Deactivated successfully.
+Mar 15 00:27:49 devbox1 systemd[1]: Finished Message of the Day.
+Mar 15 01:17:01 devbox1 CRON[6059]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 15 02:17:01 devbox1 CRON[6101]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 15 03:10:01 devbox1 CRON[6140]: (root) CMD (test -e /run/systemd/system || SERVICE_MODE=1 /sbin/e2scrub_all -A -r)
+Mar 15 03:17:01 devbox1 CRON[6146]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
