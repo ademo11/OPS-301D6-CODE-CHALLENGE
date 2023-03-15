@@ -19,4 +19,3 @@ OpenAI
  # The filename is set with the timestamp by using the variable $timestamp.
  # The cp command is used to copy the syslog file to the current working directory with the new filename.
  # A message is printed to confirm that the file has been copied.
-s
