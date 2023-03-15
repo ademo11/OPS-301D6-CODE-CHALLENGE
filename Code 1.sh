@@ -1,4 +1,10 @@
 #!/bin/bash
+# Script: OPS 301 Class 02 Ops Challenge Solution
+# Author: Ademola
+# Date of latest revision: 14 Mar 2023
+# Purpose: Create a bash script that:
+ # Copies /var/log/syslog to the current working directory
+ # Appends the current date and time to the filename
 
 # Get current date and time in the format YYYY-MM-DD-HH-MM-SS
 timestamp=$(date +%Y-%m-%d-%H-%M-%S)
