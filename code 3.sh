@@ -29,5 +29,6 @@ elif [ "$choice" == "4" ]
 then
     exit
 else
-    echo "Invalid choice"
+    echo "Is Raining here"
 fi
+
