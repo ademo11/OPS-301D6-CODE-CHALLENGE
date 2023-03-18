@@ -33,5 +33,9 @@ do
   fi
 done
 
+# Please download zip, because if you dont download zip 
+# the code will not run
+# use sudo to authorized permission
+
 # Reference
 Open source
