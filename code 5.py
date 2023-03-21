@@ -5,11 +5,14 @@
 import os
 
 # Then use os.system to call any kind of bash command
-os.system("ls")
-
-os.system("ip a")
-
-os.system("lshw -short")
+var = "whoami" 
+foo = "ip a"
+baz = "lshw -short"
+egg = "ls"
+os.system(egg)
+os.system(var)
+os.system(foo)
+os.system(baz)
 
 # How to print to terminal
 
