@@ -24,3 +24,6 @@ path = input("Enter the file path: ")
 
 # Call the function to generate directories and files
 generate_directories_files(path)
+
+# Reference
+OpenAI
