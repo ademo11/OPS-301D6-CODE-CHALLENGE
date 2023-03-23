@@ -1,23 +1,23 @@
-#!/usr/bin/env python3
-# Script: OPS 301 Class 02 Ops Challenge Solution
-# Author: Ademola
-# Date of latest revision: 22 Mar 2023
-# Purpose: How to create and print a list
+!/usr/bin/env python3
+Script: OPS 301 Class 02 Ops Challenge Solution
+Author: Ademola
+Date of latest revision: 22 Mar 2023
+Purpose: How to create and print a list
 
-# my_list = ["apple", "banana", "kunu", "guava", "plaintain", "date", "agbado", "Alkaline water", "jollof", "ogi"]
-# print(my_list)
+my_list = ["apple", "banana", "kunu", "guava", "plaintain", "date", "agbado", "Alkaline water", "jollof", "ogi"]
+print(my_list)
 
-# # How to print the first item only
+# How to print the first item only
 
-# my_list = ["apple", "banana", "kunu", "guava", "plaintain", "date", "agbado", "Alkaline water", "jollof", "ogi"]
-# print(my_list [0]) 
+my_list = ["apple", "banana", "kunu", "guava", "plaintain", "date", "agbado", "Alkaline water", "jollof", "ogi"]
+print(my_list [0]) 
 
-# # Print the fourth element of the list
+# Print the fourth element of the list
 
-# my_list = ["apple", "banana", "kunu", "guava", "plaintain", "date", "agbado", "Alkaline water", "jollof", "ogi"]
-# print(my_list [3])
+my_list = ["apple", "banana", "kunu", "guava", "plaintain", "date", "agbado", "Alkaline water", "jollof", "ogi"]
+print(my_list [3])
 
-# # Print the sixth through tenth element of the list
+# Print the sixth through tenth element of the list
 
 my_list = ["apple", "banana", "kunu", "guava", "plaintain", "date", "agbado", "Alkaline water", "jollof", "ogi"]
 print(my_list [5:10])
