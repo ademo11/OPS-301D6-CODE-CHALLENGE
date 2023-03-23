@@ -27,6 +27,7 @@ print(my_list [5:9])
 my_list = ["apple", "banana", "kunu", "guava", "plaintain", "date", "agbado", "Alkaline water", "jollof", "ogi"]
 my_list[6] = "onion"
 print("Updated list:", my_list)
+print(my_list[6])
 
 # How to print the last item only by counting backwards
 
