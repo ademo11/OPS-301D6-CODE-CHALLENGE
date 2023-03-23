@@ -4,23 +4,23 @@
 # Date of latest revision: 22 Mar 2023
 # Purpose: How to create and print a list
 
+# my_list = ["apple", "banana", "kunu", "guava", "plaintain", "date", "agbado", "Alkaline water", "jollof", "ogi"]
+# print(my_list)
+
+# # How to print the first item only
+
+# my_list = ["apple", "banana", "kunu", "guava", "plaintain", "date", "agbado", "Alkaline water", "jollof", "ogi"]
+# print(my_list [0]) 
+
+# # Print the fourth element of the list
+
+# my_list = ["apple", "banana", "kunu", "guava", "plaintain", "date", "agbado", "Alkaline water", "jollof", "ogi"]
+# print(my_list [3])
+
+# # Print the sixth through tenth element of the list
+
 my_list = ["apple", "banana", "kunu", "guava", "plaintain", "date", "agbado", "Alkaline water", "jollof", "ogi"]
-print(my_list)
-
-# How to print the first item only
-
-my_list = ["apple", "banana", "kunu", "guava", "plaintain", "date", "agbado", "Alkaline water", "jollof", "ogi"]
-print(my_list [0]) 
-
-# Print the fourth element of the list
-
-my_list = ["apple", "banana", "kunu", "guava", "plaintain", "date", "agbado", "Alkaline water", "jollof", "ogi"]
-print(my_list [3])
-
-# Print the sixth through tenth element of the list
-
-my_list = ["apple", "banana", "kunu", "guava", "plaintain", "date", "agbado", "Alkaline water", "jollof", "ogi"]
-print(my_list [5:9])
+print(my_list [5:10])
 
 # Change the value of the seventh element to "onion"
 
