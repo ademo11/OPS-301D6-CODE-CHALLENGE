@@ -1,8 +1,8 @@
-!/usr/bin/env python3
-Script: OPS 301 Class 02 Ops Challenge Solution
-Author: Ademola
-Date of latest revision: 22 Mar 2023
-Purpose: How to create and print a list
+# !/usr/bin/env python3
+# Script: OPS 301 Class 02 Ops Challenge Solution
+# Author: Ademola
+# Date of latest revision: 22 Mar 2023
+# Purpose: How to create and print a list
 
 my_list = ["apple", "banana", "kunu", "guava", "plaintain", "date", "agbado", "Alkaline water", "jollof", "ogi"]
 print(my_list)
