@@ -39,3 +39,6 @@ print(f"Time spent for servicing hardware interrupts: {irq_time}")
 print(f"Time spent for servicing software interrupts: {softirq_time}")
 print(f"Time spent by other operating systems running in a virtualized environment: {steal_time}")
 print(f"Time spent running a virtual CPU for guest operating systems under the control of the Linux kernel: {guest_time}")
+
+# Reference
+OpenAI
