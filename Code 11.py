@@ -3,7 +3,9 @@
 # Author: Ademola
 # Date of latest revision: 27 Mar 2023
 # Purpose: Time spent by normal processes executing in user mode
+import psutil
 
+# Time spent by normal processes executing in user mode
 user_time = psutil.cpu_times().user
 
 # Time spent by processes executing in kernel mode
@@ -41,4 +43,4 @@ print(f"Time spent by other operating systems running in a virtualized environme
 print(f"Time spent running a virtual CPU for guest operating systems under the control of the Linux kernel: {guest_time}")
 
 # Reference
-OpenAI
+# <OpenAI>
