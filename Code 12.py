@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+# Script: OPS 301 Class 03 Ops Challenge Solution
+# Author: Ademola
+# Date of latest revision: 29 Mar 2023
+# Purpose:Prompt user for input
+
 import requests
 
 # Prompt user for input
