@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/bash
 # Script: OPS 301 Class 03 Ops Challenge Solution
 # Author: Ademola
 # Date of latest revision: 29 Mar 2023
